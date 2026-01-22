@@ -1,0 +1,101 @@
+﻿<div class="hamburger-menu staff-menu">
+    <div class="hamburger-icon" onclick="toggleStaffMenu()">
+        <i class="bi bi-list"></i>
+    </div>
+    <ul class="dropdown-menu staff-nav">
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Staff" asp-action="Index">
+                <i class="bi bi-house-gear"></i> Quản lý Homestay
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Staff" asp-action="ManageBookings">
+                <i class="bi bi-bookmark-check"></i> Quản lý đơn đặt phòng
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Staff" asp-action="Notifications">
+                <i class="bi bi-bell"></i> Thông báo
+            </a>
+        </li>
+    </ul>
+</div>
+
+<style>
+    .hamburger-menu.staff-menu {
+        position: relative;
+        display: inline-block;
+        margin-left: auto; 
+    }
+
+        .hamburger-menu.staff-menu .hamburger-icon {
+            font-size: 24px;
+            cursor: pointer;
+            color: #2c3e50;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+        }
+
+    .dropdown-menu.staff-nav {
+        display: none;
+        position: absolute;
+        top: 100%;
+        right: 0; 
+        background-color: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 4px;
+        min-width: 250px;
+        z-index: 1000;
+        padding: 0;
+        margin: 0;
+    }
+
+        .dropdown-menu.staff-nav.active {
+            display: block; 
+        }
+
+        .dropdown-menu.staff-nav .nav-item {
+            list-style: none;
+        }
+
+        .dropdown-menu.staff-nav .nav-link {
+            display: flex;
+            align-items: center;
+            padding: 10px 15px;
+            color: #2c3e50; 
+            text-decoration: none;
+            font-size: 16px;
+        }
+
+            .dropdown-menu.staff-nav .nav-link:hover {
+                background-color: #f8f9fa;
+                color: #e67e22; 
+            }
+
+            .dropdown-menu.staff-nav .nav-link i {
+                margin-right: 10px;
+            }
+</style>
+
+<script>
+    function toggleStaffMenu() {
+        const menu = document.querySelector('.dropdown-menu.staff-nav');
+        menu.classList.toggle('active');
+    }
+
+    document.addEventListener('click', function(event) {
+        const menu = document.querySelector('.dropdown-menu.staff-nav');
+        const hamburger = document.querySelector('.hamburger-menu.staff-menu .hamburger-icon');
+        if (menu && hamburger && !menu.contains(event.target) && !hamburger.contains(event.target)) {
+            menu.classList.remove('active');
+        }
+    });
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const menu = document.querySelector('.dropdown-menu.staff-nav');
+        if (menu) {
+            menu.classList.remove('active');
+        }
+    });
+</script>

@@ -1,0 +1,130 @@
+﻿@model List<DoAnCoSo_Nhom2.Models.Homestay>
+
+<style>
+    html, body {
+        height: 100%;
+        margin: 0;
+    }
+
+    body {
+        background: linear-gradient(135deg, #e8eff5, #b3cde0) !important; 
+        font-family: Arial, sans-serif;
+        padding-top: 30px;
+    }
+
+    .filter-section {
+        background-color: #34495e; 
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        color: #ecf0f1;
+        margin-bottom: 30px;
+    }
+
+    h2.title {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 28px;
+        color: #2c3e50;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .card {
+        border: none;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        background: #ffffff;
+        color: #2c3e50; 
+        transition: transform 0.3s;
+    }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .card img {
+            height: 200px;
+            object-fit: cover;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+    .btn-info {
+        background-color: #3498db;
+        color: #ffffff;
+        border: none;
+    }
+
+        .btn-info:hover {
+            background-color: #2980b9; 
+        }
+
+    .btn-success {
+        background: #e67e22; 
+        border: none;
+        color: #ffffff;
+    }
+
+        .btn-success:hover {
+            background: #d35400;
+        }
+
+    .form-label {
+        font-weight: bold;
+    }
+</style>
+
+<h2 class="title">Kết quả tìm kiếm</h2>
+
+<div class="container filter-section">
+    <form asp-action="Search" method="get">
+        <div class="row g-3 align-items-end">
+            <div class="col-md-3">
+                <label class="form-label"><i class="bi bi-house"></i> Tên Homestay:</label>
+                <input type="text" name="name" class="form-control" placeholder="Nhập tên Homestay" />
+            </div>
+            <div class="col-md-3">
+                <label class="form-label"><i class                <i class="bi bi-geo-alt"></i> Địa điểm:</label>
+                <input type="text" name="city" class="form-control" placeholder="Nhập thành phố" />
+            </div>
+            <div class="col-md-3">
+                <label class="form-label"><i class="bi bi-cash-coin"></i> Giá tối đa (VND):</label>
+                <input type="number" name="maxPrice" class="form-control" placeholder="Nhập giá tối đa" />
+            </div>
+            <div class="col-md-3">
+                <button type="submit" class="btn btn-success w-100"><i class="bi bi-search"></i> Tìm kiếm</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        @if (Model.Any())
+        {
+            @foreach (var homeStay in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <img src="@(homeStay.Images?.FirstOrDefault() ?? "/images/default.jpg")" class="card-img-top" alt="@homeStay.Name" onerror="this.src='/images/default.jpg';" />
+                        <div class="card-body">
+                            <h4 class="card-title" style="font-weight:bold; color:#e67e22">@homeStay.Name</h4>
+                            <p class="card-text">@homeStay.Address, @homeStay.City</p>
+                            <p style=" color: red"><strong>Giá:</strong> @homeStay.PricePerNight.ToString("N0") VND / đêm</p>
+                            <p><strong>Đánh giá:</strong> @(homeStay.Reviews.Any() ? homeStay.Reviews.Average(r => r.Rating).ToString("F1") : "Chưa có đánh giá") sao</p>
+                            <a asp-controller="Homestay" asp-action="Details" asp-route-id="@homeStay.Id" class="btn btn-info">Xem chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="col-12">
+                <p class="text-center text-danger fs-5 mt-4">Không tìm thấy Homestay phù hợp.</p>
+            </div>
+        }
+    </div>
+</div>

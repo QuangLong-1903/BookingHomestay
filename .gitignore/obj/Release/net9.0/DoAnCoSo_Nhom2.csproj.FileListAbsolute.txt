@@ -1,0 +1,1332 @@
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\appsettings.Development.json
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\appsettings.json
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.staticwebassets.runtime.json
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.staticwebassets.endpoints.json
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.exe
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.deps.json
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.pdb
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\AngleSharp.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\AngleSharp.Css.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Azure.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Azure.Identity.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\HtmlSanitizer.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Humanizer.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Build.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Mono.TextTemplating.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Common.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Configuration.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Frameworks.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.LibraryModel.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Packaging.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.ProjectModel.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Protocol.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Versioning.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\SQLitePCLRaw.core.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.ClientModel.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.CodeDom.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.Convention.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.Hosting.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.Runtime.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.TypedParts.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Formats.Asn1.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Memory.Data.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Text.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\af\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ar\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\az\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\bg\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\da\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\el\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fa\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\he\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\hr\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\hu\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\hy\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\id\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\is\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ku\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\lv\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\mt\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\nb\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\nl\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ro\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\sk\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\sl\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\sr\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\sv\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\uk\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\vi\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.RazorAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.RazorAssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\scopedcss\bundle\DoAnCoSo_Nhom2.styles.css
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\scopedcss\projectbundle\DoAnCoSo_Nhom2.bundle.scp.css
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\97kfaoel32-vhw050xv9b.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\w9y7cedn93-ve5zyzo44b.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\v12bx5lxr9-bu2ebv7ggo.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\px0n8po2nz-3y8m7uxm6z.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\txpygriq2z-61n19gt1b8.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\uzx4sgr53c-xtxxf3hu2r.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wsy951c25q-bqjiyaj88i.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\cqbzeo2xzq-c2jlpeoesf.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\o0mg5uuhob-erw9l3u2r3.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ykxc82cvif-aexeepp0ev.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\6nim9oz9we-d7shbmvgxk.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\uwfz1kxcel-ausgxo2sd3.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\sb68yj9dad-k8d9w2qqmf.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\emke8pq551-cosvhxvwiu.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\qb8a5eersx-ub07r2b239.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wf9dko99at-fvhpjtyr6v.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9u7pnppjol-b7pk76d08c.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\pqq1mh86ne-fsbi9cje9m.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\hbiapo6oq8-rzd6atqjts.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tpwadwhhpy-ee0r1s7dh0.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vldupfbuy7-dxx9fxp4il.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\4aukehwsgz-jd9uben2k1.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ihptq1h0hj-khv3u5hwcm.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\05e3k6lacp-r4e9w2rdcm.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wnhf3sj57d-lcd1t2u6c8.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3apy15gkfn-c2oey78nd0.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ho5lgkwd8l-tdbxkamptv.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\m5ebxcw3st-j5mq2jizvt.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\0pu0twfxxd-06098lyss8.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\kryg068nya-nvvlpmu67g.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ega5s0ztop-s35ty4nyc5.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3ylwjjk16z-pj5nd1wqec.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\qm0186hgnr-46ein0sx1k.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\gnih9rrk60-v0zj4ognzu.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3ogdqoo8d1-37tfw0ft22.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ygl9ld5ilf-hrwsygsryq.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\if6ukykizu-pk9g2wxc8p.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\jmta5bc0e3-ft3s53vfgj.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\2166tih7xp-6cfz1n2cew.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\m2qd6gp41x-6pdc2jztkx.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wrf09c64ee-493y06b0oq.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\o12il9hvvq-iovd86k7lj.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\6ucjthj241-vr1egmr9el.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\cnb74pcfel-kbrnm935zg.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\gk6qrhqb5v-jj8uyg4cgr.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\apwz5xm6xh-y7v9cxd14o.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\em06hfdddv-notf2xhcfb.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\64ij0ttjia-h1s4sie4z3.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9a3a4dvl9e-63fj8s7r0e.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\6xsf6nxecr-0j3bgjxly4.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3kiwxi4jxg-47otxtyo56.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ogf9dglen4-4v8eqarkd7.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\z9n1c7ov0y-356vix0kms.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\kolrog6f8c-83jwlth58m.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\g8rds86w3b-mrlpezrjn3.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tztrmt4bck-lzl9nlhx6b.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\83fpf3zsxj-ag7o75518u.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ttyw45wq9f-x0q3zqp4vz.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\rb51wcrqdi-0i3buxo5is.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\kb9q9ufa7h-o1o13a6vjx.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\p80sskcs7q-ttgo8qnofa.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3yb23u22ku-2z0ns9nrw6.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\jmw946n26f-muycvpuwrr.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ey2dqbj1qs-87fc7y1x7t.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\0j25iinuds-mlv21k5csn.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\pdbh3jgd2d-so0hmc0imd.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\1mn7zxfxjg-so0hmc0imd.gz
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.DoAnCoSo_Nhom2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.DoAnCoSo_Nhom2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.build.DoAnCoSo_Nhom2.props
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.DoAnCoSo_Nhom2.props
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.DoAnCoSo_Nhom2.props
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.pack.json
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo.30867498.Up2Date
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\refint\DoAnCoSo_Nhom2.dll
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.pdb
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\Lập trình web\DoAnCoSo_Nhom2\obj\Release\net9.0\ref\DoAnCoSo_Nhom2.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\appsettings.Development.json
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.staticwebassets.endpoints.json
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\appsettings.json
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.staticwebassets.runtime.json
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.exe
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.deps.json
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.runtimeconfig.json
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.pdb
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\AngleSharp.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\AngleSharp.Css.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Azure.Core.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Azure.Identity.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\HtmlSanitizer.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Humanizer.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Build.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Build.Framework.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Build.Locator.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Data.SqlClient.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Data.Sqlite.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.DiaSymReader.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Logging.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Options.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Identity.Client.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.NET.StringTools.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.SqlServer.Server.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Mono.TextTemplating.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\Newtonsoft.Json.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Common.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Configuration.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Frameworks.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.LibraryModel.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Packaging.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.ProjectModel.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Protocol.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Versioning.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\SQLitePCLRaw.core.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.ClientModel.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.CodeDom.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.AttributedModel.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.Convention.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.Hosting.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.Runtime.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.TypedParts.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Formats.Asn1.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Memory.Data.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Runtime.Caching.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Text.Json.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\af\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ar\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\az\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\bg\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\bn-BD\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\da\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\el\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fa\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fi-FI\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr-BE\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\he\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\hr\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\hu\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\hy\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\id\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\is\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko-KR\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ku\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\lv\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ms-MY\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\mt\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\nb\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\nb-NO\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\nl\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ro\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\sk\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\sl\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\sr\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\sv\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\th-TH\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\uk\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\vi\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-CN\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.csproj.AssemblyReference.cache
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.AssemblyInfoInputs.cache
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.AssemblyInfo.cs
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.csproj.CoreCompileInputs.cache
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.MvcApplicationPartsAssemblyInfo.cs
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.MvcApplicationPartsAssemblyInfo.cache
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.RazorAssemblyInfo.cache
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.RazorAssemblyInfo.cs
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\scopedcss\bundle\DoAnCoSo_Nhom2.styles.css
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\scopedcss\projectbundle\DoAnCoSo_Nhom2.bundle.scp.css
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\97kfaoel32-vhw050xv9b.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\w9y7cedn93-ve5zyzo44b.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\v12bx5lxr9-bu2ebv7ggo.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\px0n8po2nz-3y8m7uxm6z.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\txpygriq2z-61n19gt1b8.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\uzx4sgr53c-xtxxf3hu2r.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wsy951c25q-bqjiyaj88i.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\cqbzeo2xzq-c2jlpeoesf.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\o0mg5uuhob-erw9l3u2r3.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ykxc82cvif-aexeepp0ev.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\6nim9oz9we-d7shbmvgxk.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\uwfz1kxcel-ausgxo2sd3.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\sb68yj9dad-k8d9w2qqmf.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\emke8pq551-cosvhxvwiu.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\qb8a5eersx-ub07r2b239.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wf9dko99at-fvhpjtyr6v.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9u7pnppjol-b7pk76d08c.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\pqq1mh86ne-fsbi9cje9m.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\hbiapo6oq8-rzd6atqjts.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tpwadwhhpy-ee0r1s7dh0.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vldupfbuy7-dxx9fxp4il.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\4aukehwsgz-jd9uben2k1.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ihptq1h0hj-khv3u5hwcm.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\05e3k6lacp-r4e9w2rdcm.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wnhf3sj57d-lcd1t2u6c8.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3apy15gkfn-c2oey78nd0.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ho5lgkwd8l-tdbxkamptv.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\m5ebxcw3st-j5mq2jizvt.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\0pu0twfxxd-06098lyss8.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\kryg068nya-nvvlpmu67g.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ega5s0ztop-s35ty4nyc5.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3ylwjjk16z-pj5nd1wqec.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\qm0186hgnr-46ein0sx1k.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\gnih9rrk60-v0zj4ognzu.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3ogdqoo8d1-37tfw0ft22.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ygl9ld5ilf-hrwsygsryq.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\if6ukykizu-pk9g2wxc8p.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\jmta5bc0e3-ft3s53vfgj.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\2166tih7xp-6cfz1n2cew.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\m2qd6gp41x-6pdc2jztkx.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wrf09c64ee-493y06b0oq.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\o12il9hvvq-iovd86k7lj.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\6ucjthj241-vr1egmr9el.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\cnb74pcfel-kbrnm935zg.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\gk6qrhqb5v-jj8uyg4cgr.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\apwz5xm6xh-y7v9cxd14o.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\em06hfdddv-notf2xhcfb.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\64ij0ttjia-h1s4sie4z3.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9a3a4dvl9e-63fj8s7r0e.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\6xsf6nxecr-0j3bgjxly4.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3kiwxi4jxg-47otxtyo56.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ogf9dglen4-4v8eqarkd7.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\z9n1c7ov0y-356vix0kms.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\kolrog6f8c-83jwlth58m.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\g8rds86w3b-mrlpezrjn3.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tztrmt4bck-lzl9nlhx6b.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\83fpf3zsxj-ag7o75518u.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ttyw45wq9f-x0q3zqp4vz.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\rb51wcrqdi-0i3buxo5is.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\kb9q9ufa7h-o1o13a6vjx.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\p80sskcs7q-ttgo8qnofa.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3yb23u22ku-2z0ns9nrw6.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\jmw946n26f-muycvpuwrr.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ey2dqbj1qs-87fc7y1x7t.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\0j25iinuds-mlv21k5csn.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\pdbh3jgd2d-so0hmc0imd.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\1mn7zxfxjg-so0hmc0imd.gz
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.build.json
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.development.json
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.build.endpoints.json
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.DoAnCoSo_Nhom2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.DoAnCoSo_Nhom2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.build.DoAnCoSo_Nhom2.props
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.DoAnCoSo_Nhom2.props
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.DoAnCoSo_Nhom2.props
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.pack.json
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo.30867498.Up2Date
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\refint\DoAnCoSo_Nhom2.dll
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.pdb
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.genruntimeconfig.cache
+D:\Lập Trình Web\DoAnCoSo_Nhom2\obj\Release\net9.0\ref\DoAnCoSo_Nhom2.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\appsettings.Development.json
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\appsettings.json
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.staticwebassets.runtime.json
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.staticwebassets.endpoints.json
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.exe
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.deps.json
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\DoAnCoSo_Nhom2.pdb
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\AngleSharp.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\AngleSharp.Css.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Azure.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Azure.Identity.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\HtmlSanitizer.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Humanizer.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Build.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Mono.TextTemplating.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Common.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Configuration.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Frameworks.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.LibraryModel.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Packaging.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.ProjectModel.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Protocol.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\NuGet.Versioning.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\SQLitePCLRaw.core.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.ClientModel.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.CodeDom.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.Convention.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.Hosting.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.Runtime.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Composition.TypedParts.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Formats.Asn1.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Memory.Data.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\System.Text.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\af\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ar\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\az\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\bg\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\da\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\el\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fa\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\he\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\hr\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\hu\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\hy\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\id\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\is\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ku\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\lv\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\mt\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\nb\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\nl\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pt\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ro\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\sk\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\sl\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\sr\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\sv\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\uk\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\vi\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.RazorAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.RazorAssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\scopedcss\bundle\DoAnCoSo_Nhom2.styles.css
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\scopedcss\projectbundle\DoAnCoSo_Nhom2.bundle.scp.css
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\97kfaoel32-vhw050xv9b.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\w9y7cedn93-ve5zyzo44b.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\v12bx5lxr9-bu2ebv7ggo.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\px0n8po2nz-3y8m7uxm6z.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\txpygriq2z-61n19gt1b8.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\uzx4sgr53c-xtxxf3hu2r.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wsy951c25q-bqjiyaj88i.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\cqbzeo2xzq-c2jlpeoesf.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\o0mg5uuhob-erw9l3u2r3.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ykxc82cvif-aexeepp0ev.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\6nim9oz9we-d7shbmvgxk.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\uwfz1kxcel-ausgxo2sd3.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\sb68yj9dad-k8d9w2qqmf.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\emke8pq551-cosvhxvwiu.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\qb8a5eersx-ub07r2b239.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wf9dko99at-fvhpjtyr6v.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9u7pnppjol-b7pk76d08c.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\pqq1mh86ne-fsbi9cje9m.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\hbiapo6oq8-rzd6atqjts.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tpwadwhhpy-ee0r1s7dh0.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\vldupfbuy7-dxx9fxp4il.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\4aukehwsgz-jd9uben2k1.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ihptq1h0hj-khv3u5hwcm.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\05e3k6lacp-r4e9w2rdcm.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wnhf3sj57d-lcd1t2u6c8.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3apy15gkfn-c2oey78nd0.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ho5lgkwd8l-tdbxkamptv.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\m5ebxcw3st-j5mq2jizvt.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\0pu0twfxxd-06098lyss8.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\kryg068nya-nvvlpmu67g.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ega5s0ztop-s35ty4nyc5.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3ylwjjk16z-pj5nd1wqec.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\qm0186hgnr-46ein0sx1k.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\gnih9rrk60-v0zj4ognzu.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3ogdqoo8d1-37tfw0ft22.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ygl9ld5ilf-hrwsygsryq.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\if6ukykizu-pk9g2wxc8p.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\jmta5bc0e3-ft3s53vfgj.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\2166tih7xp-6cfz1n2cew.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\m2qd6gp41x-6pdc2jztkx.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\wrf09c64ee-493y06b0oq.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\o12il9hvvq-iovd86k7lj.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\6ucjthj241-vr1egmr9el.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\cnb74pcfel-kbrnm935zg.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\gk6qrhqb5v-jj8uyg4cgr.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\apwz5xm6xh-y7v9cxd14o.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\em06hfdddv-notf2xhcfb.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\64ij0ttjia-h1s4sie4z3.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\9a3a4dvl9e-63fj8s7r0e.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\6xsf6nxecr-0j3bgjxly4.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3kiwxi4jxg-47otxtyo56.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ogf9dglen4-4v8eqarkd7.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\z9n1c7ov0y-356vix0kms.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\kolrog6f8c-83jwlth58m.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\g8rds86w3b-mrlpezrjn3.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\tztrmt4bck-lzl9nlhx6b.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\83fpf3zsxj-ag7o75518u.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ttyw45wq9f-x0q3zqp4vz.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\rb51wcrqdi-0i3buxo5is.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\kb9q9ufa7h-o1o13a6vjx.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\p80sskcs7q-ttgo8qnofa.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\3yb23u22ku-2z0ns9nrw6.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\jmw946n26f-muycvpuwrr.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\ey2dqbj1qs-87fc7y1x7t.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\0j25iinuds-mlv21k5csn.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\pdbh3jgd2d-so0hmc0imd.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\compressed\1mn7zxfxjg-so0hmc0imd.gz
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.DoAnCoSo_Nhom2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.DoAnCoSo_Nhom2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.build.DoAnCoSo_Nhom2.props
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.DoAnCoSo_Nhom2.props
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.DoAnCoSo_Nhom2.props
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.pack.json
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo.30867498.Up2Date
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\refint\DoAnCoSo_Nhom2.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.pdb
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\DoAnCoSo_Nhom2.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo_Nhom2\obj\Release\net9.0\ref\DoAnCoSo_Nhom2.dll

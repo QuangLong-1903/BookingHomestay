@@ -1,0 +1,427 @@
+﻿@model DoAnCoSo_Nhom2.Models.Homestay
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi tiết Homestay - @Model.Name</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            color: #343a40;
+            line-height: 1.6;
+        }
+
+        .container-custom {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .card {
+            border: none;
+            border-radius: 16px;
+            box-shadow: 0 2px 15px rgba(0, 0, 0, 0.08);
+            overflow: hidden;
+            transition: transform 0.3s ease;
+        }
+
+            .card:hover {
+                transform: translateY(-5px);
+            }
+
+        .card-title {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #2d3436;
+            margin-bottom: 1.5rem;
+        }
+
+        .carousel-inner img {
+            height: 600px;
+            object-fit: cover;
+            border-radius: 0;
+        }
+
+        .carousel-control-prev, .carousel-control-next {
+            width: 50px;
+            height: 50px;
+            background-color: rgba(0, 0, 0, 0.5);
+            border-radius: 50%;
+            top: 50%;
+            transform: translateY(-50%);
+            margin: 0 20px;
+        }
+
+        .amenities-section {
+            background-color: white;
+            border-radius: 16px;
+            padding: 30px;
+            margin-top: 40px;
+            box-shadow: 0 2px 15px rgba(0, 0, 0, 0.08);
+        }
+
+        .amenities-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 0;
+            list-style: none;
+        }
+
+            .amenities-list li {
+                display: flex;
+                align-items: center;
+                padding: 10px;
+                background-color: #f8f9fa;
+                border-radius: 8px;
+            }
+
+                .amenities-list li i {
+                    margin-right: 10px;
+                    color: #00b894;
+                }
+
+        .price-tag {
+            font-size: 1.5rem;
+            color: #00b894;
+            font-weight: 600;
+            margin: 20px 0;
+        }
+
+        .rating-section {
+            background-color: white;
+            border-radius: 16px;
+            padding: 30px;
+            margin-top: 40px;
+            box-shadow: 0 2px 15px rgba(0, 0, 0, 0.08);
+        }
+
+        .btn-primary {
+            background-color: #00b894;
+            border: none;
+            padding: 12px 25px;
+            font-weight: 600;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+            .btn-primary:hover {
+                background-color: #00a884;
+                transform: translateY(-2px);
+            }
+
+        .btn-outline-secondary {
+            border: 2px solid #00b894;
+            color: #00b894;
+            padding: 12px 25px;
+            font-weight: 600;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+            .btn-outline-secondary:hover {
+                background-color: #00b894;
+                color: white;
+                transform: translateY(-2px);
+            }
+
+        .review-table {
+            background-color: white;
+            border-radius: 16px;
+            overflow: hidden;
+            margin-top: 20px;
+        }
+
+            .review-table th {
+                background-color: #f8f9fa;
+                border: none;
+                padding: 15px;
+                font-weight: 600;
+            }
+
+            .review-table td {
+                padding: 15px;
+                border-bottom: 1px solid #f1f1f1;
+            }
+
+        .star-rating {
+            color: #ffd700;
+        }
+
+        .description-text {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: #666;
+            margin: 20px 0;
+        }
+
+        .location-info {
+            display: flex;
+            align-items: center;
+            margin: 15px 0;
+            color: #666;
+        }
+
+            .location-info i {
+                margin-right: 10px;
+                color: #00b894;
+            }
+
+        .alert {
+            border-radius: 12px;
+            padding: 15px 20px;
+            margin-top: 20px;
+        }
+
+        .form-control {
+            border-radius: 8px;
+            padding: 12px;
+            border: 1px solid #ddd;
+        }
+
+            .form-control:focus {
+                border-color: #00b894;
+                box-shadow: 0 0 0 0.2rem rgba(0, 184, 148, 0.25);
+            }
+
+        .select2-container--default .select2-selection--single {
+            height: 45px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+        }
+
+            .select2-container--default .select2-selection--single .select2-selection__rendered {
+                line-height: 45px;
+                padding-left: 15px;
+            }
+
+        .report-form .input-group {
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .report-form .btn-danger {
+            background-color: #ff7675;
+            border: none;
+        }
+
+            .report-form .btn-danger:hover {
+                background-color: #e66767;
+            }
+    </style>
+</head>
+<body>
+    <div class="container-custom">
+        <div class="card mb-4">
+            <div class="row g-0">
+                <div class="col-md-6">
+                    @if (Model.Images != null && Model.Images.Any())
+                    {
+                        <div id="homestayCarousel" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                @for (int i = 0; i < Model.Images.Count; i++)
+                                {
+                                    <div class="carousel-item @(i == 0 ? "active" : "")">
+                                        <img src="@Model.Images[i]" class="d-block w-100" alt="@Model.Name">
+                                    </div>
+                                }
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#homestayCarousel" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#homestayCarousel" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    }
+                    else
+                    {
+                        <img src="/images/default.jpg" class="img-fluid" alt="@Model.Name">
+                    }
+                </div>
+                <div class="col-md-6">
+                    <div class="card-body">
+                        <h1 class="card-title">@Model.Name</h1>
+                        <div class="location-info">
+                            <i class="bi bi-geo-alt-fill"></i>
+                            <span>@Model.Address, @Model.City</span>
+                        </div>
+                        <div class="description-text">@Html.Raw(Model.Description)</div>
+                        <div class="price-tag">
+                            <i class="bi bi-currency-dollar"></i>
+                            @Model.PricePerNight.ToString("N0") VND / đêm
+                        </div>
+                        <div class="d-flex align-items-center mb-4">
+                            <div class="star-rating me-2">
+                                @for (int i = 1; i <= 5; i++)
+                                {
+                                    if (i <= (Model.Reviews.Any() ? Math.Round(Model.Reviews.Average(r => r.Rating)) : 0))
+                                    {
+                                        <i class="bi bi-star-fill"></i>
+                                    }
+                                    else
+                                    {
+                                        <i class="bi bi-star"></i>
+                                    }
+                                }
+                            </div>
+                            <span>(@(Model.Reviews.Any() ? Model.Reviews.Average(r => r.Rating).ToString("F1") : "Chưa có") điểm)</span>
+                        </div>
+                        <div class="d-grid gap-3">
+                            <a asp-controller="Booking" asp-action="Create" asp-route-homeStayId="@Model.Id"
+                               class="btn btn-primary">
+                                <i class="bi bi-calendar-check me-2"></i>Đặt ngay
+                            </a>
+                            <a asp-controller="Cart" asp-action="AddToCart" asp-route-homeStayId="@Model.Id"
+                               class="btn btn-outline-secondary">
+                                <i class="bi bi-cart-plus me-2"></i>Thêm vào giỏ hàng
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="amenities-section">
+            <h3><i class="bi bi-house-gear me-2"></i>Tiện ích</h3>
+            <ul class="amenities-list">
+                @foreach (var amenity in Model.HomestayAmenities)
+                {
+                    <li>
+                        <i class="bi bi-check-circle-fill"></i>
+                        @amenity.Amenity.Name
+                    </li>
+                }
+            </ul>
+        </div>
+
+        <div class="rating-section">
+            <h3><i class="bi bi-star me-2"></i>Đánh giá Homestay</h3>
+            <form asp-action="Rate" asp-controller="Homestay" method="post" class="mb-4">
+                <input type="hidden" name="homestayId" value="@Model.Id" />
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="mb-3">
+                    <label for="rating" class="form-label">Đánh giá (1 - 5 sao):</label>
+                    <select name="rating" class="form-control" id="rating" required>
+                        <option value="1">★</option>
+                        <option value="2">★★</option>
+                        <option value="3">★★★</option>
+                        <option value="4">★★★★</option>
+                        <option value="5">★★★★★</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="comment" class="form-label">Nhận xét:</label>
+                    <textarea name="comment" class="form-control" rows="4" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">
+                    <i class="bi bi-send me-2"></i>Gửi đánh giá
+                </button>
+            </form>
+
+            <h4 class="mt-5"><i class="bi bi-chat-square-text me-2"></i>Danh sách đánh giá</h4>
+            @if (Model.Reviews != null && Model.Reviews.Any())
+            {
+                <div class="table-responsive review-table">
+                    <table class="table mb-0">
+                        <thead>
+                            <tr>
+                                <th>Đánh giá</th>
+                                <th>Nhận xét</th>
+                                <th>Ngày tạo</th>
+                                <th>Báo cáo</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var review in Model.Reviews)
+                            {
+                                <tr>
+                                    <td class="star-rating">
+                                        @for (int i = 1; i <= 5; i++)
+                                        {
+                                            if (i <= review.Rating)
+                                            {
+                                                <i class="bi bi-star-fill"></i>
+                                            }
+                                            else
+                                            {
+                                                <i class="bi bi-star"></i>
+                                            }
+                                        }
+                                    </td>
+                                    <td>@review.Comment</td>
+                                    <td>@review.CreatedAt.ToString("dd/MM/yyyy HH:mm")</td>
+                                    <td>
+                                        @if (User.Identity.IsAuthenticated)
+                                        {
+                                            <form asp-action="ReportReview" asp-controller="Homestay" method="post" class="report-form">
+                                                <input type="hidden" name="reviewId" value="@review.Id" />
+                                                <div class="input-group">
+                                                    <input type="text" name="reason" class="form-control" placeholder="Lý do báo cáo" required />
+                                                    <button type="submit" class="btn btn-danger">
+                                                        <i class="bi bi-flag-fill"></i>
+                                                    </button>
+                                                </div>
+                                            </form>
+                                        }
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-info">
+                    <i class="bi bi-info-circle me-2"></i>Chưa có đánh giá nào.
+                </div>
+            }
+        </div>
+
+        @if (TempData["HomestaySuccess"] != null)
+        {
+            <div class="alert alert-success">
+                <i class="bi bi-check-circle me-2"></i>@TempData["HomestaySuccess"]
+            </div>
+        }
+        @if (TempData["HomestayError"] != null)
+        {
+            <div class="alert alert-danger">
+                <i class="bi bi-exclamation-triangle me-2"></i>@TempData["HomestayError"]
+            </div>
+        }
+
+        <div class="text-center mt-4">
+            <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary">
+                <i class="bi bi-arrow-left me-2"></i>Quay lại
+            </a>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#rating').select2({
+                width: '100%',
+                templateResult: function (state) {
+                    if (!state.id) return state.text;
+                    return $('<span class="star-rating">' + state.text + '</span>');
+                },
+                templateSelection: function (state) {
+                    return $('<span class="star-rating">' + state.text + '</span>');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\booking\\hehe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\booking\\hehe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\booking\\paymentcallbackvnpay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\booking\\paymentcallbackvnpay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\cart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\cart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\cart\\paymentresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\cart\\paymentresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\cart\\paymentcallbackvnpay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\cart\\paymentcallbackvnpay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\homestay\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\homestay\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\homestay\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\homestay\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\controllers\\homestaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:controllers\\homestaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\staff\\managebookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\staff\\managebookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\admin\\managebookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\admin\\managebookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\admin\\thongkebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\admin\\thongkebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\admin\\managehomestays.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\admin\\managehomestays.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\staff\\edithomestay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\staff\\edithomestay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\homestay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\homestay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\shared\\_customermenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\shared\\_customermenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\staff\\notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\staff\\notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\deletedhomestaynotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\deletedhomestaynotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\admin\\edithomestay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\admin\\edithomestay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\homestayamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\homestayamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\staff\\createhomestay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\staff\\createhomestay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\homestay\\sort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\homestay\\sort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\admin\\managereviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\admin\\managereviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\account\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\account\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\account\\activitylog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\account\\activitylog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\account\\revenuereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\account\\revenuereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\doancoso_nhom2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:doancoso_nhom2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\shared\\_staffmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\shared\\_staffmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\shared\\_adminmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\shared\\_adminmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\views\\home\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:views\\home\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\viewmodels\\thongkebookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:viewmodels\\thongkebookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\viewmodels\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:viewmodels\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\viewmodels\\bookingcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:viewmodels\\bookingcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\service\\vnpay\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:service\\vnpay\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\service\\vnpay\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:service\\vnpay\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\service\\timeservice\\timeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:service\\timeservice\\timeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\service\\activitylog\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:service\\activitylog\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\tempbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\tempbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\useractivitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\useractivitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\models\\amenities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:models\\amenities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\libraries\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:libraries\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\extensions\\homestayextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:extensions\\homestayextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\doancoso_nhom2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:doancoso_nhom2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\data\\migrations\\20250527135948_hehehehehehehhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:data\\migrations\\20250527135948_hehehehehehehhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\data\\migrations\\20250604142830_noti2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:data\\migrations\\20250604142830_noti2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\data\\migrations\\20250604140845_noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:data\\migrations\\20250604140845_noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\data\\migrations\\20250604143136_noti3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:data\\migrations\\20250604143136_noti3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\data\\migrations\\20250604135226_xoauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:data\\migrations\\20250604135226_xoauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\data\\migrations\\20250606034344_phone1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:data\\migrations\\20250606034344_phone1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\doancoso\\doancoso_nhom2\\data\\migrations\\20250606032604_phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E793D8-7E13-45ED-B3C2-6F20D8755FDB}|DoAnCoSo_Nhom2.csproj|solutionrelative:data\\migrations\\20250606032604_phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:52:47.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "Controllers\\StaffController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:12:07.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:40:03.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T17:24:46.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Homestay\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homestay\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Homestay\\Details.cshtml",
+              "RelativeToolTip": "Views\\Homestay\\Details.cshtml",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAgwKEBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T08:46:13.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Homestay\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homestay\\Search.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Homestay\\Search.cshtml",
+              "RelativeToolTip": "Views\\Homestay\\Search.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAuwIEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:51:30.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentCallbackVnpay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Cart\\PaymentCallbackVnpay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\PaymentCallbackVnpay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Cart\\PaymentCallbackVnpay.cshtml",
+              "RelativeToolTip": "Views\\Cart\\PaymentCallbackVnpay.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwGoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:50:47.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAMsAAAAAAAAAAAD4v9cAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:50:13.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:10:58.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:26:52.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:04:34.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:06:21.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentCallBackVnpay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Booking\\PaymentCallBackVnpay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\PaymentCallBackVnpay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Booking\\PaymentCallBackVnpay.cshtml",
+              "RelativeToolTip": "Views\\Booking\\PaymentCallBackVnpay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:50:17.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddToCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Cart\\AddToCart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\AddToCart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Cart\\AddToCart.cshtml",
+              "RelativeToolTip": "Views\\Cart\\AddToCart.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAQwJEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:50:41.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAmwLcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:37:58.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "hehe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Booking\\hehe.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\hehe.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Booking\\hehe.cshtml",
+              "RelativeToolTip": "Views\\Booking\\hehe.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:49:52.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Cart\\PaymentResult.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\PaymentResult.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Cart\\PaymentResult.cshtml",
+              "RelativeToolTip": "Views\\Cart\\PaymentResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:51:09.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomestayController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\HomestayController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomestayController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\HomestayController.cs",
+              "RelativeToolTip": "Controllers\\HomestayController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAA4wHYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:07:22.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAYwM4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T08:43:30.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageBookings.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Staff\\ManageBookings.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\ManageBookings.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Staff\\ManageBookings.cshtml",
+              "RelativeToolTip": "Views\\Staff\\ManageBookings.cshtml",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAgwMQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:52:32.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Staff\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Staff\\Index.cshtml",
+              "RelativeToolTip": "Views\\Staff\\Index.cshtml",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAAANEAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:52:24.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageBookings.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\ManageBookings.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageBookings.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\ManageBookings.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageBookings.cshtml",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAuwLAAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:48:11.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThongKeBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\ThongKeBooking.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ThongKeBooking.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\ThongKeBooking.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ThongKeBooking.cshtml",
+              "ViewState": "AgIAAHECAAAAAAAAAAAIwJYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T07:13:47.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAuwGAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:17:59.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:55:57.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EditHomestay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Staff\\EditHomestay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\EditHomestay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Staff\\EditHomestay.cshtml",
+              "RelativeToolTip": "Views\\Staff\\EditHomestay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:52:20.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20250606034344_phone1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250606034344_phone1.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250606034344_phone1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250606034344_phone1.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250606034344_phone1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:43:45.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwHYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:47:56.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:47:52.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:15.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManageHomestays.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\ManageHomestays.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageHomestays.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\ManageHomestays.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageHomestays.cshtml",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAANYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:48:31.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManageUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\ManageUsers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageUsers.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\ManageUsers.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageUsers.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:48:39.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:10.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Homestay.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Homestay.cs",
+              "RelativeDocumentMoniker": "Models\\Homestay.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Homestay.cs",
+              "RelativeToolTip": "Models\\Homestay.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:19.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_CustomerMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_CustomerMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_CustomerMenu.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_CustomerMenu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_CustomerMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:01:24.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\_Layout.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:52:38.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:02.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20250606032604_phone.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250606032604_phone.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250606032604_phone.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250606032604_phone.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250606032604_phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:26:04.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeletedHomestayNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\DeletedHomestayNotification.cs",
+              "RelativeDocumentMoniker": "Models\\DeletedHomestayNotification.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\DeletedHomestayNotification.cs",
+              "RelativeToolTip": "Models\\DeletedHomestayNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:19.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditHomestay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\EditHomestay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditHomestay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\EditHomestay.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditHomestay.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAM8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:48:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Notifications.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Staff\\Notifications.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\Notifications.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Staff\\Notifications.cshtml",
+              "RelativeToolTip": "Views\\Staff\\Notifications.cshtml",
+              "ViewState": "AgIAAAABAAAAAAAAAAAmwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:52:28.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T06:47:08.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HomestayAmenity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\HomestayAmenity.cs",
+              "RelativeDocumentMoniker": "Models\\HomestayAmenity.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\HomestayAmenity.cs",
+              "RelativeToolTip": "Models\\HomestayAmenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:18.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwKAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T15:48:45.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateHomestay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Staff\\CreateHomestay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\CreateHomestay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Staff\\CreateHomestay.cshtml",
+              "RelativeToolTip": "Views\\Staff\\CreateHomestay.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:52:10.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T06:47:11.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:07:22.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Sort.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Homestay\\Sort.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homestay\\Sort.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Homestay\\Sort.cshtml",
+              "RelativeToolTip": "Views\\Homestay\\Sort.cshtml",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAuwNUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T08:45:16.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ManageReviews.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\ManageReviews.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageReviews.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Admin\\ManageReviews.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageReviews.cshtml",
+              "ViewState": "AgIAALwAAAAAAAAAAAAuwNQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:48:35.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Account\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Account\\EditProfile.cshtml",
+              "RelativeToolTip": "Views\\Account\\EditProfile.cshtml",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwJEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:47:49.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ActivityLog.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Account\\ActivityLog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ActivityLog.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Account\\ActivityLog.cshtml",
+              "RelativeToolTip": "Views\\Account\\ActivityLog.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAuwKgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T08:32:56.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RevenueReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Account\\RevenueReport.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\RevenueReport.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Account\\RevenueReport.cshtml",
+              "RelativeToolTip": "Views\\Account\\RevenueReport.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:48:00.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAuwJAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:49:48.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAcwL8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:50:44.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20250604142830_noti2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250604142830_noti2.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250604142830_noti2.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250604142830_noti2.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250604142830_noti2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:28:30.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20250604140845_noti.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250604140845_noti.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250604140845_noti.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250604140845_noti.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250604140845_noti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:08:45.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20250604143136_noti3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250604143136_noti3.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250604143136_noti3.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250604143136_noti3.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250604143136_noti3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:31:36.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20250604135226_xoaUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250604135226_xoaUser.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250604135226_xoaUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250604135226_xoaUser.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250604135226_xoaUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:52:26.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DoAnCoSo_Nhom2.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\DoAnCoSo_Nhom2.csproj",
+              "RelativeDocumentMoniker": "DoAnCoSo_Nhom2.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\DoAnCoSo_Nhom2.csproj",
+              "RelativeToolTip": "DoAnCoSo_Nhom2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T14:21:34.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250527135948_hehehehehehehhe.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250527135948_hehehehehehehhe.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250527135948_hehehehehehehhe.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Data\\Migrations\\20250527135948_hehehehehehehhe.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250527135948_hehehehehehehhe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:59:48.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_AdminMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_AdminMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminMenu.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_AdminMenu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminMenu.cshtml",
+              "ViewState": "AgIAAGIAAAAA9zTCcs8jwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T15:33:00.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_StaffMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_StaffMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_StaffMenu.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_StaffMenu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_StaffMenu.cshtml",
+              "ViewState": "AgIAAFsAAACA+MfSpuolwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:02:43.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:06:18.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:06:19.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Home\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\OrderHistory.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Views\\Home\\OrderHistory.cshtml",
+              "RelativeToolTip": "Views\\Home\\OrderHistory.cshtml",
+              "ViewState": "AgIAALEAAAAAAAAAAAAvwMMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T16:44:57.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BookingCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\ViewModels\\BookingCreateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BookingCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\ViewModels\\BookingCreateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BookingCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:55:54.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EditProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\ViewModels\\EditProfile.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\ViewModels\\EditProfile.cs",
+              "RelativeToolTip": "ViewModels\\EditProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:12:24.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:12:25.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ThongKeBookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\ViewModels\\ThongKeBookingViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ThongKeBookingViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\ViewModels\\ThongKeBookingViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ThongKeBookingViewModel.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:12:26.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Service\\VnPay\\VnPayService.cs",
+              "RelativeDocumentMoniker": "Service\\VnPay\\VnPayService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Service\\VnPay\\VnPayService.cs",
+              "RelativeToolTip": "Service\\VnPay\\VnPayService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:33.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Service\\VnPay\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "Service\\VnPay\\IVnPayService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Service\\VnPay\\IVnPayService.cs",
+              "RelativeToolTip": "Service\\VnPay\\IVnPayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:31.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:10.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:18.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Service\\ActivityLog\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "Service\\ActivityLog\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Service\\ActivityLog\\ActivityLog.cs",
+              "RelativeToolTip": "Service\\ActivityLog\\ActivityLog.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:25:43.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TimeService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Service\\TimeService\\TimeService.cs",
+              "RelativeDocumentMoniker": "Service\\TimeService\\TimeService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Service\\TimeService\\TimeService.cs",
+              "RelativeToolTip": "Service\\TimeService\\TimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:28:37.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "Models\\Report.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Report.cs",
+              "RelativeToolTip": "Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:16.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "TempBooking.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\TempBooking.cs",
+              "RelativeDocumentMoniker": "Models\\TempBooking.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\TempBooking.cs",
+              "RelativeToolTip": "Models\\TempBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:15.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UserActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\UserActivityLog.cs",
+              "RelativeDocumentMoniker": "Models\\UserActivityLog.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\UserActivityLog.cs",
+              "RelativeToolTip": "Models\\UserActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:47:14.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PaymentResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\PaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentResponseModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\PaymentResponseModel.cs",
+              "RelativeToolTip": "Models\\PaymentResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:07:17.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PaymentInformationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\PaymentInformationModel.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentInformationModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\PaymentInformationModel.cs",
+              "RelativeToolTip": "Models\\PaymentInformationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:07:17.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Amenities.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Amenities.cs",
+              "RelativeDocumentMoniker": "Models\\Amenities.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Models\\Amenities.cs",
+              "RelativeToolTip": "Models\\Amenities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:46:58.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Libraries\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "Libraries\\VnPayLibrary.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Libraries\\VnPayLibrary.cs",
+              "RelativeToolTip": "Libraries\\VnPayLibrary.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:12:16.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "HomestayExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Extensions\\HomestayExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\HomestayExtensions.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\Extensions\\HomestayExtensions.cs",
+              "RelativeToolTip": "Extensions\\HomestayExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:12:12.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "DoAnCoSo_Nhom2",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\DoAnCoSo_Nhom2.csproj",
+              "RelativeDocumentMoniker": "DoAnCoSo_Nhom2.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnCoSo\\DoAnCoSo_Nhom2\\DoAnCoSo_Nhom2.csproj",
+              "RelativeToolTip": "DoAnCoSo_Nhom2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T06:47:33.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

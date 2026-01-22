@@ -1,0 +1,271 @@
+﻿@model dynamic
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thông báo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+            background: linear-gradient(135deg, #e8eff5, #b3cde0) !important;
+            padding-top: 50px;
+            color: #2c3e50;
+        }
+
+        .card {
+            background-color: #ffffff;
+            border-radius: 20px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+            overflow: hidden;
+        }
+
+        .card-header {
+            background-color: #34495e;
+            color: #ffffff;
+            font-family: 'Montserrat', sans-serif;
+            text-transform: uppercase;
+            font-size: 24px;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+        }
+
+        .btn-secondary {
+            background: #26a69a;
+            color: #ffffff;
+            border: none;
+            font-weight: 600;
+            border-radius: 10px;
+            padding: 10px 20px;
+            transition: background 0.3s ease;
+        }
+
+            .btn-secondary:hover {
+                background: #00897b;
+            }
+
+        .alert-success {
+            background-color: #e6f4ea;
+            color: #2e7d32;
+            border: 1px solid #a5d6a7;
+            border-radius: 10px;
+            padding: 15px;
+        }
+
+        .alert-danger {
+            background-color: #fce4ec;
+            color: #c62828;
+            border: 1px solid #ef9a9a;
+            border-radius: 10px;
+            padding: 15px;
+        }
+
+        .table th, .table thead {
+            background-color: #34495e;
+            color: #ffffff;
+            vertical-align: middle;
+            font-weight: 600;
+        }
+
+        .table td {
+            background-color: #e8f5e9 !important;
+            vertical-align: middle;
+            color: #2c3e50;
+        }
+
+        .badge.bg-success {
+            background-color: #2ecc71;
+        }
+
+        .badge.bg-danger {
+            background-color: #e74c3c;
+        }
+
+        .badge.bg-warning {
+            background-color: #e67e22;
+            color: #ffffff;
+        }
+
+        h3 {
+            font-weight: 700;
+            color: #e67e22;
+            margin-top: 30px;
+        }
+
+        p.text-muted {
+            color: #7f8c8d !important;
+        }
+
+        .table-hover tbody tr:hover {
+            background-color: #c8e6c9 !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <div class="card shadow-lg">
+            <div class="card-header text-center">
+                <h2 class="mb-0">Thông báo</h2>
+            </div>
+            <div class="card-body">
+                @if (TempData["StaffMessage"] != null)
+                {
+                    <div class="alert alert-success text-center fw-bold">
+                        @TempData["StaffMessage"]
+                    </div>
+                }
+                @if (TempData["StaffError"] != null)
+                {
+                    <div class="alert alert-danger text-center fw-bold">
+                        @TempData["StaffError"]
+                    </div>
+                }
+                <h3>Đơn đặt phòng mới</h3>
+                @if (ViewBag.Bookings != null && ((IEnumerable<DoAnCoSo_Nhom2.Models.Booking>)ViewBag.Bookings).Any())
+                {
+                    <div class="table-responsive">
+                        <table class="table table-hover table-bordered text-center">
+                            <thead>
+                                <tr>
+                                    <th>Homestay</th>
+                                    <th>Khách hàng</th>
+                                    <th>Ngày nhận</th>
+                                    <th>Ngày trả</th>
+                                    <th>Số khách</th>
+                                    <th>Tổng giá</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var booking in (IEnumerable<DoAnCoSo_Nhom2.Models.Booking>)ViewBag.Bookings)
+                                {
+                                    <tr>
+                                        <td>@(booking.Homestay?.Name ?? "Không xác định")</td>
+                                        <td>@(booking.User?.UserName ?? "Không xác định")</td>
+                                        <td>@booking.CheckInDate.ToString("dd/MM/yyyy")</td>
+                                        <td>@booking.CheckOutDate.ToString("dd/MM/yyyy")</td>
+                                        <td>@booking.NumberOfGuests</td>
+                                        <td>@booking.TotalPrice.ToString("N0") VND</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                }
+                else
+                {
+                    <p class="text-muted">Không có đơn đặt phòng mới.</p>
+                }
+
+                <h3>Đánh giá mới</h3>
+                @if (ViewBag.Reviews != null && ((IEnumerable<DoAnCoSo_Nhom2.Models.Review>)ViewBag.Reviews).Any())
+                {
+                    <div class="table-responsive">
+                        <table class="table table-hover table-bordered text-center">
+                            <thead>
+                                <tr>
+                                    <th>Homestay</th>
+                                    <th>Khách hàng</th>
+                                    <th>Đánh giá</th>
+                                    <th>Bình luận</th>
+                                    <th>Ngày tạo</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var review in (IEnumerable<DoAnCoSo_Nhom2.Models.Review>)ViewBag.Reviews)
+                                {
+                                    <tr>
+                                        <td>@(review.Homestay?.Name ?? "Không xác định")</td>
+                                        <td>@(review.User?.UserName ?? "Không xác định")</td>
+                                        <td>@review.Rating sao</td>
+                                        <td>@review.Comment</td>
+                                        <td>@review.CreatedAt.ToString("dd/MM/yyyy HH:mm")</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                }
+                else
+                {
+                    <p class="text-muted">Không có đánh giá mới.</p>
+                }
+
+                <h3>Trạng thái phê duyệt Homestay</h3>
+                @if (
+                (ViewBag.Homestays != null && ((IEnumerable<DoAnCoSo_Nhom2.Models.Homestay>)ViewBag.Homestays).Any()) ||
+                (ViewBag.DeletedHomestays != null && ((IEnumerable<DoAnCoSo_Nhom2.Models.DeletedHomestayNotification>)ViewBag.DeletedHomestays).Any())
+                )
+                {
+                    <div class="table-responsive">
+                        <table class="table table-hover table-bordered text-center">
+                            <thead>
+                                <tr>
+                                    <th>Tên Homestay</th>
+                                    <th>Trạng thái</th>
+                                    <th>Địa chỉ</th>
+                                    <th>Thời gian xóa</th>
+                                    <th>Lý do</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var homestay in (IEnumerable<DoAnCoSo_Nhom2.Models.Homestay>)ViewBag.Homestays)
+                                {
+                                    <tr>
+                                        <td>@(homestay?.Name ?? "Không xác định")</td>
+                                        <td>
+                                            @if (homestay?.IsApproved == true)
+                                            {
+                                                <span class="badge bg-success">Đã phê duyệt</span>
+                                            }
+                                            else
+                                            {
+                                                <span class="badge bg-warning">Chờ phê duyệt</span>
+                                            }
+                                        </td>
+                                        <td>@homestay?.Address</td>
+                                        <td>-</td>
+                                        <td>-</td>
+                                    </tr>
+                                }
+
+                                @foreach (var deleted in (IEnumerable<DoAnCoSo_Nhom2.Models.DeletedHomestayNotification>)ViewBag.DeletedHomestays)
+                                {
+                                    <tr>
+                                        <td>@deleted.HomestayName</td>
+                                        <td>
+                                            <span class="badge bg-danger">Đã bị xóa</span>
+                                        </td>
+                                        <td>@deleted.Address</td>
+                                        <td>@deleted.DeletedAt.ToString("dd/MM/yyyy HH:mm")</td>
+                                        <td>@deleted.Reason</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                }
+                else
+                {
+                    <p class="text-muted">Bạn chưa có Homestay nào.</p>
+                }
+
+
+                <a asp-action="Index" class="btn btn-secondary mt-3">
+                    <i class="bi bi-arrow-left me-2"></i>Quay lại
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

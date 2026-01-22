@@ -1,0 +1,113 @@
+﻿
+<div class="hamburger-menu">
+    <div class="hamburger-icon" onclick="toggleAdminMenu()">
+        <i class="bi bi-list"></i>
+    </div>
+    <ul class="dropdown-menu admin-nav">
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Admin" asp-action="ManageHomestays">
+                <i class="bi bi-house-gear"></i> Quản lý Homestay
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Admin" asp-action="ManageUsers">
+                <i class="bi bi-person-gear"></i> Quản lý người dùng
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Admin" asp-action="ManageBookings">
+                <i class="bi bi-calendar-check"></i> Quản lý đơn đặt phòng
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Admin" asp-action="ThongKeBooking">
+                <i class="bi bi-bar-chart"></i> Thống kê đơn đặt phòng
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Admin" asp-action="ManageReviews">
+                <i class="bi bi-journal-text"></i> Quản lý báo cáo đánh giá
+            </a>
+        </li>
+    </ul>
+</div>
+
+<style>
+    .hamburger-menu {
+        position: relative;
+        display: inline-block;
+        margin-left: auto; 
+    }
+
+    
+    .hamburger-icon {
+        font-size: 24px;
+        cursor: pointer;
+        color: #2c3e50;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    .dropdown-menu.admin-nav {
+        display: none;
+        position: absolute;
+        top: 100%;
+        right: 0; 
+        background-color: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 4px;
+        min-width: 250px;
+        z-index: 1000;
+        padding: 0;
+        margin: 0;
+    }
+
+        .dropdown-menu.admin-nav.active {
+            display: block;
+        }
+
+        .dropdown-menu.admin-nav .nav-item {
+            list-style: none;
+        }
+
+        .dropdown-menu.admin-nav .nav-link {
+            display: flex;
+            align-items: center;
+            padding: 10px 15px;
+            color: #2c3e50;
+            text-decoration: none;
+            font-size: 16px;
+        }
+
+            .dropdown-menu.admin-nav .nav-link:hover {
+                background-color: #f8f9fa;
+                color: #e67e22; 
+            }
+
+            .dropdown-menu.admin-nav .nav-link i {
+                margin-right: 10px;
+            }
+</style>
+
+<script>
+    function toggleAdminMenu() {
+        const menu = document.querySelector('.dropdown-menu.admin-nav');
+        menu.classList.toggle('active');
+    }
+
+    document.addEventListener('click', function(event) {
+        const menu = document.querySelector('.dropdown-menu.admin-nav');
+        const hamburger = document.querySelector('.hamburger-menu .hamburger-icon');
+        if (menu && hamburger && !menu.contains(event.target) && !hamburger.contains(event.target)) {
+            menu.classList.remove('active');
+        }
+    });
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const menu = document.querySelector('.dropdown-menu.admin-nav');
+        if (menu) {
+            menu.classList.remove('active');
+        }
+    });
+</script>

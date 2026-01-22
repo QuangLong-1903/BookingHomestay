@@ -1,0 +1,662 @@
+﻿
+@model DoAnCoSo_Nhom2.ViewModels.ThongKeBookingViewModel
+@using Newtonsoft.Json
+
+<style>
+    html, body {
+        height: 100%;
+        margin: 0;
+    }
+
+    body {
+        background: linear-gradient(135deg, #e8eff5, #b3cde0);
+        padding-top: 50px;
+    }
+
+    h2, h3 {
+        font-size: 28px;
+        font-weight: bold;
+        color: #2c3e50 !important;
+        text-align: center;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+    }
+
+    .table th, .table thead {
+        background-color: #34495e;
+        color: #ffffff;
+        vertical-align: middle;
+        font-weight: 600;
+        padding: 12px;
+    }
+
+    .table td {
+        background-color: #e8f5e9 !important;
+        color: #2c3e50;
+        vertical-align: middle;
+        padding: 12px;
+    }
+
+    .table th, .table td {
+        text-align: center;
+    }
+
+    .table {
+        border-radius: 10px;
+    }
+
+    .overview-table th, .overview-table td,
+    .booking-details-table th, .booking-details-table td {
+        min-width: 100px;
+    }
+
+    .badge {
+        font-size: 0.9em;
+        padding: 5px 10px;
+        border-radius: 5px;
+    }
+
+    .btn-secondary {
+        background-color: #26a69a;
+        color: #ffffff;
+        border: none;
+        font-weight: 600;
+        border-radius: 10px;
+        padding: 10px 20px;
+        transition: background 0.3s ease;
+    }
+
+        .btn-secondary:hover {
+            background-color: #00897b;
+        }
+
+    .btn-primary {
+        background-color: #e67e22;
+        border: none;
+        color: #ffffff;
+        font-weight: 600;
+        border-radius: 10px;
+        padding: 10px 20px;
+        transition: background 0.3s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #d35400;
+        }
+
+    .form-label {
+        font-weight: 600;
+        color: #2c3e50;
+    }
+
+    .form-control {
+        border-radius: 8px;
+        border: 2px solid #3498db;
+        transition: border-color 0.3s ease;
+    }
+
+        .form-control:focus {
+            border-color: #2980b9;
+            box-shadow: 0 0 5px rgba(52, 152, 219, 0.3);
+        }
+
+    .container {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .card {
+        background-color: #ffffff;
+        border-radius: 15px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+
+    .table-responsive {
+        width: 100%; 
+        margin-right: 0;
+        max-height: 350px; 
+        overflow-y: auto;
+    }
+
+    .stats-section .table-responsive {
+        width: 50%;
+        margin-right: 20px;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #c8e6c9 !important;
+    }
+
+    .section-title {
+        margin-bottom: 20px;
+    }
+
+    .section-divider {
+        border-top: 1px solid #e0e0e0;
+        margin: 30px 0;
+    }
+
+    .no-data {
+        text-align: center;
+        color: #7f8c8d;
+        font-style: italic;
+        padding: 1rem;
+    }
+
+    .stats-section {
+        display: flex;
+        align-items: stretch;
+        gap: 20px;
+    }
+
+    .chart-container {
+        width: 50%;
+        max-height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+        .chart-container canvas {
+            width: 100% !important;
+            height: 300px !important;
+        }
+
+        .chart-container h4 {
+            font-size: 18px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+
+    .two-column-table th,
+    .two-column-table td {
+        width: 50% !important;
+        text-align: center;
+    }
+
+    media (max-width: 992px) {
+        .stats-section
+
+    {
+        flex-direction: column;
+    }
+
+    .stats-section .table-responsive {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        max-height: none;
+    }
+
+    .chart-container {
+        width: 100%;
+        max-height: none;
+    }
+
+    }
+</style>
+
+<div class="container">
+    <div class="card">
+        <h2 class="section-title">Thống kê đơn đặt phòng</h2>
+        <form method="get" asp-action="ThongKeBooking" class="mb-4">
+            <div class="row">
+                <div class="col-md-4">
+                    <label for="homestayName" class="form-label">Nhập tên Homestay:</label>
+                    <input type="text" name="homestayName" id="homestayName" list="homestayList" class="form-control" placeholder="Chọn hoặc nhập tên homestay" />
+                    <datalist id="homestayList">
+                        @foreach (var homestay in ViewBag.Homestays)
+                        {
+                            <option value="@homestay.Name"></option>
+                        }
+                    </datalist>
+                </div>
+                <div class="col-md-4">
+                    <label for="year" class="form-label">Nhập năm:</label>
+                    <input type="number" name="year" id="year" class="form-control" placeholder="VD: 2025" min="2000" max="@DateTime.Now.Year" step="1" value="@(ViewBag.SelectedYear ?? DateTime.Now.Year)" />
+                </div>
+                <div class="col-md-4 d-flex align-items-end">
+                    <button type="submit" class="btn btn-primary w-100"><i class="bi bi-filter me-2"></i>Lọc</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="section-divider"></div>
+    <div class="card">
+        <h3 class="section-title">Thống kê tổng quan</h3>
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered text-center table-hover overview-table">
+                <thead>
+                    <tr>
+                        <th>Trạng thái</th>
+                        <th>Số lượng</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.StatusStatistics.Any())
+                    {
+                        @foreach (var stat in Model.StatusStatistics)
+                        {
+                            <tr>
+                                <td>@stat.Status</td>
+                                <td>@stat.Count</td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="2" class="no-data">Không có dữ liệu cho năm đã chọn</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="section-divider"></div>
+    <div class="card">
+        <h3 class="section-title">Thống kê doanh thu</h3>
+        <div class="stats-section">
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered text-center table-hover two-column-table">
+                    <thead>
+                        <tr>
+                            <th>Tháng</th>
+                            <th>Doanh thu</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.RevenueStatistics.Any())
+                        {
+                            @foreach (var revenue in Model.RevenueStatistics)
+                            {
+                                <tr>
+                                    <td>@revenue.Month</td>
+                                    <td>@revenue.TotalRevenue.ToString("N0") VND</td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="2" class="no-data">Không có dữ liệu cho năm đã chọn</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div class="chart-container">
+                <h4 class="text-center">Biểu đồ Doanh thu</h4>
+                <canvas id="revenueChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <div class="section-divider"></div>
+    <div class="card">
+        <h3 class="section-title">Thống kê lợi nhuận</h3>
+        <div class="stats-section">
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered text-center table-hover two-column-table">
+                    <thead>
+                        <tr>
+                            <th>Tháng</th>
+                            <th>Lợi nhuận</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.ProfitStatistics.Any())
+                        {
+                            @foreach (var profit in Model.ProfitStatistics)
+                            {
+                                <tr>
+                                    <td>@profit.Month</td>
+                                    <td>@profit.TotalProfit.ToString("N0") VND</td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="2" class="no-data">Không có dữ liệu cho năm đã chọn</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div class="chart-container">
+                <h4 class="text-center">Biểu đồ Lợi nhuận</h4>
+                <canvas id="profitChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <div class="section-divider"></div>
+    <div class="card">
+        <h3 class="section-title">Thống kê số lượt đặt phòng</h3>
+        <div class="stats-section">
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered text-center table-hover two-column-table">
+                    <thead>
+                        <tr>
+                            <th>Tháng</th>
+                            <th>Số lượt đặt phòng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.BookingCountStatistics.Any())
+                        {
+                            @foreach (var bookingCount in Model.BookingCountStatistics)
+                            {
+                                <tr>
+                                    <td>@bookingCount.Month</td>
+                                    <td>@bookingCount.TotalBookings</td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="2" class="no-data">Không có dữ liệu cho năm đã chọn</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div class="chart-container">
+                <h4 class="text-center">Biểu đồ Số lượt đặt phòng</h4>
+                <canvas id="bookingCountChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <div class="section-divider"></div>
+    <div class="card">
+        <h3 class="section-title">Thống kê đánh giá</h3>
+        <div class="stats-section">
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered text-center table-hover two-column-table">
+                    <thead>
+                        <tr>
+                            <th>Tháng</th>
+                            <th>Điểm đánh giá trung bình</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.ReviewStatistics.Any())
+                        {
+                            @foreach (var review in Model.ReviewStatistics)
+                            {
+                                <tr>
+                                    <td>@review.Month</td>
+                                    <td>@review.AverageRating.ToString("F2")</td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="2" class="no-data">Không có dữ liệu cho năm đã chọn</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div class="chart-container">
+                <h4 class="text-center">Biểu đồ Đánh giá</h4>
+                <canvas id="reviewChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <div class="section-divider"></div>
+    <div class="card">
+        <h3 class="section-title">Chi tiết đơn đặt phòng</h3>
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered text-center table-hover booking-details-table">
+                <thead>
+                    <tr>
+                        <th>Khách hàng</th>
+                        <th>Homestay</th>
+                        <th>Ngày nhận</th>
+                        <th>Ngày trả</th>
+                        <th>Số khách</th>
+                        <th>Giá</th>
+                        <th>Trạng thái</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.Bookings.Any())
+                    {
+                        @foreach (var booking in Model.Bookings)
+                        {
+                            <tr>
+                                <td>@booking.User.FullName</td>
+                                <td>@booking.Homestay.Name</td>
+                                <td>@booking.CheckInDate.ToString("dd/MM/yyyy")</td>
+                                <td>@booking.CheckOutDate.ToString("dd/MM/yyyy")</td>
+                                <td>@booking.NumberOfGuests</td>
+                                <td>@booking.TotalPrice.ToString("N0") VND</td>
+                                <td>
+                                    @{
+                                        var badgeClass = booking.Status switch
+                                        {
+                                            "Pending" => "bg-warning text-dark",
+                                            "Approved" => "bg-success",
+                                            _ => "bg-danger"
+                                        };
+                                    }
+                                    <span class="badge @badgeClass">@booking.Status</span>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="7" class="no-data">Không có dữ liệu cho năm đã chọn</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="section-divider"></div>
+    <div class="text-end mt-4">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left me-2"></i>Quay lại
+        </a>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const monthLabels = [
+                ' 1', ' 2', ' 3', ' 4', ' 5', ' 6',
+                ' 7', ' 8', ' 9', ' 10', ' 11', ' 12'
+            ];
+            var revenueCtx = document.getElementById('revenueChart').getContext('2d');
+            var revenueChart = new Chart(revenueCtx, {
+                type: 'line',
+                data: {
+                    labels: monthLabels,
+                    datasets: [{
+                        label: 'Doanh thu (VND)',
+                        data: @Html.Raw(Json.Serialize(Model.RevenueStatistics.Select(x => x.TotalRevenue))),
+                        borderColor: '#e67e22',
+                        backgroundColor: 'rgba(230, 126, 34, 0.2)',
+                        fill: true,
+                        tension: 0.4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Doanh thu (VND)'
+                            }
+                        },
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Tháng'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: 'top'
+                        }
+                    }
+                }
+            });
+
+            var profitCtx = document.getElementById('profitChart').getContext('2d');
+            var profitChart = new Chart(profitCtx, {
+                type: 'line',
+                data: {
+                    labels: monthLabels,
+                    datasets: [{
+                        label: 'Lợi nhuận (VND)',
+                        data: @Html.Raw(Json.Serialize(Model.ProfitStatistics.Select(x => x.TotalProfit))),
+                        borderColor: '#2ecc71',
+                        backgroundColor: 'rgba(46, 204, 113, 0.2)',
+                        fill: true,
+                        tension: 0.4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Lợi nhuận (VND)'
+                            }
+                        },
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Tháng'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: 'top'
+                        }
+                    }
+                }
+            });
+
+            var bookingCountCtx = document.getElementById('bookingCountChart').getContext('2d');
+            var bookingCountChart = new Chart(bookingCountCtx, {
+                type: 'bar',
+                data: {
+                    labels: monthLabels,
+                    datasets: [{
+                        label: 'Số lượt đặt phòng',
+                        data: @Html.Raw(Json.Serialize(Model.BookingCountStatistics.Select(x => x.TotalBookings))),
+                        backgroundColor: '#3498db',
+                        borderColor: '#2980b9',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Số lượt đặt phòng'
+                            }
+                        },
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Tháng'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: 'top'
+                        }
+                    }
+                }
+            });
+
+            var reviewCtx = document.getElementById('reviewChart').getContext('2d');
+            var reviewChart = new Chart(reviewCtx, {
+                type: 'bar',
+                data: {
+                    labels: monthLabels,
+                    datasets: [{
+                        label: 'Điểm đánh giá trung bình',
+                        data: @Html.Raw(Json.Serialize(Model.ReviewStatistics.Select(x => x.AverageRating))),
+                        backgroundColor: '#9b59b6',
+                        borderColor: '#8e44ad',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 5,
+                            title: {
+                                display: true,
+                                text: 'Điểm đánh giá (1-5)'
+                            }
+                        },
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Tháng'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: 'top'
+                        }
+                    }
+                }
+            });
+
+            document.querySelector('form').addEventListener('submit', function (e) {
+                const yearInput = document.getElementById('year');
+                const year = parseInt(yearInput.value);
+                const currentYear = @DateTime.Now.Year;
+                if (!year || year < 2000 || year > currentYear) {
+                    e.preventDefault();
+                    alert('Vui lòng nhập năm hợp lệ (2000 - ' + currentYear + ').');
+                }
+            });
+        });
+    </script>
+}

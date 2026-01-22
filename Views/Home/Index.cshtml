@@ -1,0 +1,284 @@
+﻿@model List<DoAnCoSo_Nhom2.Models.Homestay>
+@{
+    ViewData["Title"] = "Booking HomeStay LKH";
+}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh sách Homestay</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    <style>
+        .carousel img {
+            height: 400px;
+            object-fit: cover;
+            border-radius: 30px;
+        }
+
+        body {
+            background: linear-gradient(135deg, #e8eff5, #b3cde0) !important;
+            color: #333;
+            font-family: Arial, sans-serif;
+        }
+
+        #filter-section {
+            background-color: #34495e !important;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: -50px;
+            color: #ecf0f1;
+        }
+
+        .card {
+            border: none;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background: #ffffff;
+            transition: transform 0.3s;
+            color: #2c3e50;
+        }
+
+            .card:hover {
+                transform: scale(1.05);
+            }
+
+            .card img {
+                height: 200px;
+                object-fit: cover;
+                border-top-left-radius: 10px;
+                border-top-right-radius: 10px;
+            }
+
+        .btn-success {
+            background: #e67e22;
+            border: none;
+            color: #ffffff;
+        }
+
+            .btn-success:hover {
+                background: #d35400;
+            }
+
+        header {
+            background-color: #ffffff !important;
+            color: #2c3e50;
+            padding: 15px 0;
+        }
+
+        .home-header {
+            background-color: #3498db !important;
+            padding: 15px 0;
+            border: 3px solid #2c3e50;
+            border-radius: 15px;
+            margin-bottom: 10px;
+        }
+
+        .layout-header {
+            background-color: transparent !important;
+        }
+
+        .home-header h2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 28px;
+            color: #ffffff !important;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .home-header .nav-link {
+            color: #ecf0f1 !important;
+        }
+
+            .home-header .nav-link:hover {
+                color: #dcdcdc !important;
+            }
+
+        header-custom {
+            display: block;
+            padding: 15px 0;
+            border-bottom: 3px solid #2c3e50;
+        }
+
+        .carousel {
+            position: relative;
+        }
+
+        .carousel-inner {
+            border-radius: 30px;
+            overflow: hidden;
+        }
+
+        .carousel-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.4);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-align: center;
+        }
+
+            .carousel-overlay h1 {
+                font-family: 'Montserrat', sans-serif;
+                font-size: 36px;
+                font-weight: 700;
+                margin-bottom: 20px;
+            }
+
+            .carousel-overlay a {
+                padding: 10px 20px;
+                background: #e67e22;
+                color: #ffffff;
+                text-decoration: none;
+                border-radius: 5px;
+                transition: background 0.3s;
+                font-weight: 600;
+            }
+
+                .carousel-overlay a:hover {
+                    background: #d35400;
+                }
+
+        .price-text {
+            color: #ff4d4f;
+            font-weight: bold;
+        }
+
+        .star-rating {
+            color: #ffd700;
+        }
+    </style>
+</head>
+<body>
+    <header-custom class="home-header bg-primary text-white">
+        <div class="container-fluid d-flex justify-content-between align-items-center">
+            <h2 class="mb-0">Booking HomeStay Gaygo</h2>
+            <nav>
+                <ul class="nav">
+                    <li class="nav-item"><a class="nav-link" asp-controller="Homestay" asp-action="Search"><i class="bi bi-search"></i> Tìm kiếm</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Cart" asp-action="Index"><i class="bi bi-cart"></i> Giỏ hàng</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="OrderHistory"><i class="bi bi-calendar-check"></i> Lịch sử đặt phòng</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Account" asp-action="ActivityLog"><i class="bi bi-clock-history"></i> Lịch sử hoạt động</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Account" asp-action="EditProfile"><i class="bi bi-pencil-square"></i> Chỉnh sửa thông tin cá nhân</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header-custom>
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="https://hibtel.webhotel.vn/assets/image/banner-3.jpg" class="d-block w-100" alt="Banner 1">
+                <div class="carousel-overlay">
+                    <h1>Khám Phá Homestay Của Sự Bình Yên</h1>
+                    <a asp-controller="Homestay" asp-action="Search">Tìm Homestay Ngay</a>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="https://hibtel.webhotel.vn/assets/image/banner-1.jpg" class="d-block w-100" alt="Banner 2">
+                <div class="carousel-overlay">
+                    <h1>Trải Nghiệm Kỳ Nghỉ Đáng Nhớ</h1>
+                    <a asp-controller="Homestay" asp-action="Search">Tìm Homestay Ngay</a>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="https://hibtel.webhotel.vn/assets/image/banner-2.jpg" class="d-block w-100" alt="Banner 3">
+                <div class="carousel-overlay">
+                    <h1>Đặt Phòng Dễ Dàng, Nhanh Chóng</h1>
+                    <a asp-controller="Homestay" asp-action="Search">Tìm Homestay Ngay</a>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+    </div>
+    <div id="filter-section" class="container-fluid mt-4 p-4">
+        <form method="get" asp-controller="Homestay" asp-action="Sort">
+            <div class="row g-3 align-items-end">
+                <div class="col-md-3">
+                    <label class="form-label"><i class="bi bi-cash-coin"></i> Giá tối đa (VND):</label>
+                    <input type="number" name="PricePerNight" class="form-control" placeholder="Nhập giá tối đa">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label"><i class="bi bi-geo-alt"></i> Vị trí:</label>
+                    <input type="text" name="City" class="form-control" placeholder="Nhập thành phố">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label"><i class="bi bi-star-fill"></i> Đánh giá tối thiểu:</label>
+                    <select name="Rating" class="form-select">
+                        <option value="">Chọn mức đánh giá</option>
+                        <option value="1">1 sao</option>
+                        <option value="2">2 sao</option>
+                        <option value="3">3 sao</option>
+                        <option value="4">4 sao</option>
+                        <option value="5">5 sao</option>
+                    </select>
+                </div>
+                <div class="col-md-3">
+                    <button type="submit" class="btn btn-success w-100">Lọc</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <h3 class="mb-0 text-center" style="color: #2c3e50; font-weight:bold">Danh Sách Homestay</h3>
+    <div class="container-fluid mt-4">
+        <div class="row">
+            @if (Model.Any())
+            {
+                @foreach (var homestay in Model)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card homestay-card h-100" style="display: flex; flex-direction: column;">
+                            <img src="@homestay.Images.FirstOrDefault()" class="card-img-top" alt="Homestay" onerror="this.src='/images/default.jpg';">
+                            <div class="card-body" style="display: flex; flex-direction: column; flex-grow: 1;">
+                                <h4 class="card-title" style="font-weight:bold; color:#e67e22">@homestay.Name</h4>
+                                <p><strong>Địa chỉ:</strong> @homestay.Address</p>
+                                <p class="price-text"><strong>Giá:</strong> @homestay.PricePerNight.ToString("N0") VND</p>
+                                <p>
+                                    <strong>Đánh giá:</strong>
+                                    <span class="star-rating">
+                                        @{
+                                            var rating = homestay.Reviews.Any() ? Math.Round(homestay.Reviews.Average(r => r.Rating)) : 0;
+                                            for (int i = 1; i <= 5; i++)
+                                            {
+                                                if (i <= rating)
+                                                {
+                                                    <i class="bi bi-star-fill"></i>
+                                                }
+                                                else
+                                                {
+                                                    <i class="bi bi-star"></i>
+                                                }
+                                            }
+                                        }
+                                    </span>
+                                    @(homestay.Reviews.Any() ? homestay.Reviews.Average(r => r.Rating).ToString("F1") : "Chưa có đánh giá")
+                                </p>
+                                <a asp-controller="Homestay" asp-action="Details" asp-route-id="@homestay.Id" class="btn btn-info mt-auto" style="background-color:#3498db; color:#ffffff">Xem chi tiết</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <p class="no-homestay-text">Không có Homestay nào được tìm thấy.</p>
+            }
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

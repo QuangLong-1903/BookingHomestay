@@ -1,0 +1,245 @@
+﻿@model List<DoAnCoSo_Nhom2.Models.Homestay>
+
+<style>
+    html, body {
+        height: 100%;
+        margin: 0;
+    }
+
+    body {
+        background: linear-gradient(135deg, #e8eff5, #b3cde0);
+        padding-top: 50px;
+    }
+
+    h2 {
+        font-size: 28px;
+        font-weight: bold;
+        color: orangered !important;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .table th, .table thead {
+        background-color: #34495e;
+        color: #ffffff;
+        vertical-align: middle;
+        font-weight: 600;
+    }
+
+    .table td {
+        background-color: #e8f5e9 !important;
+        color: #2c3e50;
+        vertical-align: middle;
+    }
+
+    .badge {
+        font-size: 0.9em;
+        padding: 5px 10px;
+        border-radius: 5px;
+    }
+
+    .btn-success {
+        background-color: #e67e22;
+        border: none;
+        color: #ffffff;
+        font-weight: 600;
+        border-radius: 10px;
+        padding: 6px 12px;
+        transition: background 0.3s ease;
+    }
+
+        .btn-success:hover {
+            background-color: #d35400;
+        }
+
+    .btn-primary {
+        background-color: #3498db;
+        border: none;
+        color: #ffffff;
+        font-weight: 600;
+        border-radius: 10px;
+        padding: 6px 12px;
+        transition: background 0.3s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #2980b9;
+        }
+
+    .btn-danger {
+        background-color: #e74c3c;
+        border: none;
+        color: #ffffff;
+        font-weight: 600;
+        border-radius: 10px;
+        padding: 6px 12px;
+        transition: background 0.3s ease;
+    }
+
+        .btn-danger:hover {
+            background-color: #c0392b;
+        }
+
+    .btn-secondary {
+        background-color: #26a69a;
+        color: #ffffff;
+        border: none;
+        font-weight: 600;
+        border-radius: 10px;
+        padding: 10px 20px;
+        transition: background 0.3s ease;
+    }
+
+        .btn-secondary:hover {
+            background-color: #00897b;
+        }
+
+    #homestayTable_wrapper {
+        color: #2c3e50;
+        font-size: 16px;
+    }
+
+    .dataTables_length label,
+    .dataTables_filter label,
+    .dataTables_info,
+    .dataTables_paginate {
+        color: #2c3e50 !important;
+        font-size: 16px;
+    }
+
+        .dataTables_length select,
+        .dataTables_filter input,
+        .dataTables_paginate a {
+            font-size: 16px !important;
+            color: #2c3e50 !important;
+            background-color: #ffffff !important;
+            border: 1px solid #3498db !important;
+            border-radius: 6px;
+            padding: 4px 8px;
+            margin: 2px;
+        }
+
+        .dataTables_paginate .paginate_button {
+            padding: 6px 12px;
+            margin: 2px;
+        }
+
+            .dataTables_paginate .paginate_button:hover {
+                background-color: #ecf0f1 !important;
+                color: #2c3e50 !important;
+                border: 1px solid #3498db !important;
+            }
+
+    .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+        background-color: #3498db !important;
+        color: #ffffff !important;
+        border: 1px solid #2980b9 !important;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #c8e6c9 !important;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .text-end {
+        text-align: right;
+    }
+</style>
+
+<h2>Quản lý Homestay</h2>
+
+<div class="container">
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            @TempData["ErrorMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["SuccessMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    <div class="table-responsive">
+        <table id="homestayTable" class="table table-hover table-bordered text-center">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Tên</th>
+                    <th>Địa chỉ</th>
+                    <th>Thành phố</th>
+                    <th>Giá mỗi đêm</th>
+                    <th>Trạng thái</th>
+                    <th>Staff</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var homestay in Model)
+                {
+                    <tr>
+                        <td>@homestay.Id</td>
+                        <td>@homestay.Name</td>
+                        <td>@homestay.Address</td>
+                        <td>@homestay.City</td>
+                        <td>@homestay.PricePerNight.ToString("N0") VND</td>
+                        <td>
+                            <span class="badge @(homestay.IsApproved ? "bg-success" : "bg-warning text-dark")">
+                                @(homestay.IsApproved ? "Đã phê duyệt" : "Chưa phê duyệt")
+                            </span>
+                        </td>
+                        <td>@homestay.Staff?.FullName</td>
+                        <td>
+                            <div class="d-flex gap-2 justify-content-center">
+                                @if (!homestay.IsApproved)
+                                {
+                                    <form asp-controller="Admin" asp-action="ApproveHomestay" method="post">
+                                        @Html.AntiForgeryToken()
+                                        <input type="hidden" name="id" value="@homestay.Id" />
+                                        <button type="submit" class="btn btn-success btn-sm"><i class="bi bi-check-circle me-2"></i>Phê duyệt</button>
+                                    </form>
+                                }
+                                <a asp-action="EditHomestay" asp-route-id="@homestay.Id" class="btn btn-primary btn-sm"><i class="bi bi-pencil-square me-2"></i>Sửa</a>
+                                <form asp-action="DeleteHomestay" method="post" onsubmit="return confirm('Bạn chắc chắn muốn xóa?');">
+                                    @Html.AntiForgeryToken()
+                                    <input type="hidden" name="id" value="@homestay.Id" />
+                                    <button type="submit" class="btn btn-danger btn-sm"><i class="bi bi-trash me-2"></i>Xóa</button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="text-end mt-4">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left me-2"></i>Quay lại
+        </a>
+    </div>
+</div>
+
+@section Scripts {
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#homestayTable').DataTable({
+                language: {
+                    url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/vi.json'
+                },
+                pageLength: 10
+            });
+        });
+    </script>
+}

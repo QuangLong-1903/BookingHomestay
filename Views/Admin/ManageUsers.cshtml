@@ -1,0 +1,247 @@
+﻿@model IEnumerable<DoAnCoSo_Nhom2.Models.User>
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<DoAnCoSo_Nhom2.Models.User> UserManager
+
+<style>
+    html, body {
+        height: 100%;
+        margin: 0;
+    }
+
+    body {
+        background: linear-gradient(135deg, #e8eff5, #b3cde0);
+        padding-top: 50px;
+    }
+
+    h2 {
+        font-size: 28px;
+        font-weight: bold;
+        color: orangered !important;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .table th {
+        background-color: #34495e;
+        color: #ffffff;
+        vertical-align: middle;
+    }
+
+    .table td {
+        background-color: #e8f5e9 !important;
+        color: #2c3e50;
+        vertical-align: middle;
+    }
+
+    .badge {
+        font-size: 0.9em;
+        padding: 5px 10px;
+        border-radius: 5px;
+    }
+
+    .alert-info {
+        font-size: 18px;
+        font-weight: bold;
+        background-color: #FFF3C7;
+        color: #4E1F00;
+        border: none;
+        border-radius: 10px;
+    }
+
+    .btn-secondary {
+        background-color: #FFF3C7;
+        color: #4E1F00;
+        border: none;
+        font-weight: bold;
+        border-radius: 10px;
+    }
+
+        .btn-secondary:hover {
+            background-color: #F2E2B1;
+        }
+
+    #usersTable_wrapper {
+        color: #4E1F00;
+        font-size: 16px;
+    }
+
+    .dataTables_length label,
+    .dataTables_filter label,
+    .dataTables_info,
+    .dataTables_paginate {
+        color: #4E1F00 !important;
+        font-size: 16px;
+    }
+
+        .dataTables_length select,
+        .dataTables_filter input,
+        .dataTables_paginate a {
+            font-size: 16px !important;
+            color: #4E1F00 !important;
+            background-color: white !important;
+            border: 1px solid #ccc !important;
+            border-radius: 6px;
+            padding: 4px 8px;
+            margin: 2px;
+        }
+
+        .dataTables_paginate .paginate_button {
+            padding: 6px 12px;
+            margin: 2px;
+        }
+
+            .dataTables_paginate .paginate_button:hover {
+                background-color: #f1f1f1 !important;
+                color: #4E1F00 !important;
+                border: 1px solid #4E1F00 !important;
+            }
+
+    .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+        background-color: white !important;
+        color: #FFF3C7 !important;
+        border: 1px solid #4E1F00 !important;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .table-responsive {
+        margin-top: 30px;
+    }
+
+    .uniform-action-button {
+        width: 80px;
+    }
+
+    .role-select-container {
+        min-width: 120px;
+    }
+
+        .role-select-container select {
+            width: 100%;
+        }
+
+        .role-select-container .btn {
+            width: 100%;
+        }
+
+    .action-buttons-container {
+        display: flex;
+        gap: 8px;
+        align-items: flex-start;
+    }
+
+    .text-end {
+        text-align: right;
+    }
+</style>
+
+<h2>Quản lý người dùng</h2>
+<div class="container">
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            @TempData["ErrorMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["SuccessMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    <div class="table-responsive">
+        <table id="usersTable" class="table table-bordered table-striped text-center">
+            <thead class="table-dark">
+                <tr>
+                    <th>Email</th>
+                    <th>Họ tên</th>
+                    <th>Địa chỉ</th>
+                    <th>Ngày sinh</th>
+                    <th>Vai trò hiện tại</th>
+                    <th>Trạng thái</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.Email</td>
+                        <td>@user.FullName</td>
+                        <td>@user.Address</td>
+                        <td>@user.DateOfBirth.ToString("dd/MM/yyyy")</td>
+                        <td>@string.Join(", ", await UserManager.GetRolesAsync(user))</td>
+                        <td>
+                            @if (user.LockoutEnd.HasValue && user.LockoutEnd > DateTime.UtcNow)
+                            {
+                                <span class="badge bg-danger">Đã khóa</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-success">Hoạt động</span>
+                            }
+                        </td>
+                        <td>
+                            <div class="d-flex gap-2 justify-content-center action-buttons-container">
+                                <div class="role-select-container">
+                                    <form asp-action="AssignRole" method="post">
+                                        <input type="hidden" name="userId" value="@user.Id" />
+                                        <select name="role" class="form-select">
+                                            <option value="Customer">Customer</option>
+                                            <option value="Staff">Staff</option>
+                                            <option value="Admin">Admin</option>
+                                        </select>
+                                        <button type="submit" class="btn btn-primary btn-sm mt-2" style="background-color: deepskyblue !important">Cập nhật</button>
+                                    </form>
+                                </div>
+
+                                <form asp-action="KhoaTK" method="post" onsubmit="return confirm('Bạn có chắc muốn khóa tài khoản này không?');">
+                                    <input type="hidden" name="userId" value="@user.Id" />
+                                    <button type="submit" class="btn btn-warning btn-sm mt-2 uniform-action-button">Khóa</button>
+                                </form>
+
+                                <form asp-action="MoKhoaTK" method="post">
+                                    <input type="hidden" name="userId" value="@user.Id" />
+                                    <button type="submit" class="btn btn-success btn-sm mt-2 uniform-action-button">Mở khóa</button>
+                                </form>
+
+                                <form asp-action="DeleteUser" method="post" onsubmit="return confirm('Bạn có chắc muốn xóa tài khoản này không?');">
+                                    <input type="hidden" name="userId" value="@user.Id" />
+                                    <button type="submit" class="btn btn-danger btn-sm mt-2 uniform-action-button">Xóa</button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="text-end mt-4">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Quay lại
+        </a>
+    </div>
+</div>
+
+@section Scripts {
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#usersTable').DataTable({
+                language: {
+                    url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/vi.json'
+                },
+                pageLength: 10
+            });
+        });
+    </script>
+}

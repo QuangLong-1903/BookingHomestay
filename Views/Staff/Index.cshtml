@@ -1,0 +1,235 @@
+﻿@model List<DoAnCoSo_Nhom2.Models.Homestay>
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản lý Homestay</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+            background: linear-gradient(135deg, #e8eff5, #b3cde0) !important;
+            padding-top: 50px;
+            color: #2c3e50;
+        }
+
+        .card {
+            background-color: #ffffff;
+            border-radius: 20px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .card-header {
+            background-color: #34495e;
+            color: #ffffff;
+            font-family: 'Montserrat', sans-serif;
+            text-transform: uppercase;
+            font-size: 24px;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+        }
+
+        .btn-success {
+            background: #e67e22;
+            border: none;
+            color: #ffffff;
+            font-weight: 600;
+            border-radius: 10px;
+            padding: 10px 20px;
+            transition: background 0.3s ease;
+        }
+
+            .btn-success:hover {
+                background: #d35400;
+            }
+
+        .btn-secondary {
+            background: #26a69a;
+            color: #ffffff;
+            border: none;
+            font-weight: 600;
+            border-radius: 10px;
+            padding: 10px 20px;
+            transition: background 0.3s ease;
+        }
+
+            .btn-secondary:hover {
+                background: #00897b;
+            }
+
+        .btn-warning {
+            background-color: #e67e22;
+            color: #ffffff;
+            border: none;
+            font-weight: 600;
+            border-radius: 10px;
+            padding: 6px 12px;
+            transition: background 0.3s ease;
+        }
+
+            .btn-warning:hover {
+                background-color: #d35400;
+            }
+
+        .btn-danger {
+            background-color: #e74c3c;
+            color: #ffffff;
+            border: none;
+            font-weight: 600;
+            border-radius: 10px;
+            padding: 6px 12px;
+            transition: background 0.3s ease;
+        }
+
+            .btn-danger:hover {
+                background-color: #c0392b;
+            }
+
+        .alert-success {
+            background-color: #e6f4ea;
+            color: #2e7d32;
+            border: 1px solid #a5d6a7;
+            border-radius: 10px;
+            padding: 15px;
+        }
+
+        .alert-danger {
+            background-color: #fce4ec;
+            color: #c62828;
+            border: 1px solid #ef9a9a;
+            border-radius: 10px;
+            padding: 15px;
+        }
+
+        .alert-info {
+            background-color: #e3f2fd;
+            color: #0277bd;
+            border: 1px solid #90caf9;
+            border-radius: 10px;
+            padding: 15px;
+        }
+
+        .table th, .table thead {
+            background-color: #34495e;
+            color: #ffffff;
+            vertical-align: middle;
+            font-weight: 600;
+        }
+
+        .table td {
+            background-color: #e8f5e9 !important;
+            vertical-align: middle;
+            color: #2c3e50;
+        }
+
+        .badge.bg-success {
+            background-color: #2ecc71;
+        }
+
+        .badge.bg-danger {
+            background-color: #e74c3c;
+        }
+
+        .table-hover tbody tr:hover {
+            background-color: #c8e6c9 !important;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <div class="card shadow-lg">
+            <div class="card-header text-center">
+                <h2 class="mb-0">Quản lý Homestay</h2>
+            </div>
+            <div class="card-body">
+                @if (TempData["ErrorMessage"] != null)
+                {
+                    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                        @TempData["ErrorMessage"]
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                }
+                @if (TempData["SuccessMessage"] != null)
+                {
+                    <div class="alert alert-success alert-dismissible fade show" role="alert">
+                        @TempData["SuccessMessage"]
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                }
+
+                <p class="alert alert-info">Thông báo mới: @ViewBag.Notification</p>
+
+                <div class="mb-3 d-flex gap-2">
+                    <a asp-action="CreateHomestay" class="btn btn-success">
+                        <i class="bi bi-plus-circle me-2"></i>Thêm Homestay mới
+                    </a>
+                    <a asp-action="ManageBookings" class="btn btn-secondary">
+                        <i class="bi bi-calendar-check me-2"></i>Quản lý đơn đặt phòng
+                    </a>
+                    <a asp-action="Notifications" class="btn btn-warning text-dark">
+                        <i class="bi bi-bell me-2"></i>Xem thông báo
+                    </a>
+                </div>
+
+                @if (Model.Any())
+                {
+                    <div class="table-responsive">
+                        <table class="table table-hover table-bordered text-center">
+                            <thead>
+                                <tr>
+                                    <th>Tên</th>
+                                    <th>Địa chỉ</th>
+                                    <th>Giá mỗi đêm</th>
+                                    <th>Trạng thái</th>
+                                    <th>Hành động</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var homestay in Model)
+                                {
+                                    <tr>
+                                        <td>@homestay.Name</td>
+                                        <td>@homestay.Address, @homestay.City</td>
+                                        <td>@homestay.PricePerNight.ToString("N0") VND</td>
+                                        <td>
+                                            <span class="badge @(homestay.Free ? "bg-success" : "bg-danger")">
+                                                @(homestay.Free ? "Còn trống" : "Hết chỗ")
+                                            </span>
+                                        </td>
+                                        <td>
+                                            <a asp-action="EditHomestay" asp-route-id="@homestay.Id" class="btn btn-warning btn-sm">
+                                                <i class="bi bi-pencil-square me-2"></i>Sửa
+                                            </a>
+                                            <form asp-action="DeleteHomestay" asp-route-id="@homestay.Id" method="post" class="d-inline">
+                                                <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Bạn chắc chắn muốn xóa?')">
+                                                    <i class="bi bi-trash me-2"></i>Xóa
+                                                </button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                }
+                else
+                {
+                    <p class="text-center text-muted">Bạn chưa có Homestay nào.</p>
+                }
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+﻿
+.bg-light py-3 {
+    border: 3px solid black;
+    margin-bottom: 10px;
+  
+}
+#filter-section {
+    border: 3px solid black;
+    margin-bottom: 10px;
+
+}
+h2{
+    color:forestgreen
+}
+header {
+    border-bottom: 3px solid black;
+    margin-bottom: 10px;
+    background-color : lawngreen
+}
+body {
+    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+.carousel img {
+    height: 400px;
+    object-fit: cover;
+}
+#filter-section {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: -50px;
+}
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: #ffffff;
+    transition: transform 0.3s;
+}
+.card:hover {
+    transform: scale(1.05);
+}
+.card img {
+    height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.btn-success {
+    background: #28a745;
+    border: none;
+}
+.btn-success:hover {
+    background: #218838;
+}
+header {
+    background: #343a40;
+    color: white;
+    padding: 15px 0;
+}
+header h2 {
+    margin-left: 20px;
+}
+.nav-link {
+    color: white !important;
+}
+.nav-link:hover {
+    color: #ffc107 !important;
+}

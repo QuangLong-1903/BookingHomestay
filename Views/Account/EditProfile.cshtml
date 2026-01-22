@@ -1,0 +1,146 @@
+﻿@model DoAnCoSo_Nhom2.ViewModels.EditProfile
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chỉnh sửa thông tin cá nhân</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            background: linear-gradient(135deg, #e8eff5, #b3cde0) !important;
+            padding-top: 50px;
+            color: #2c3e50;
+        }
+
+        .form-container {
+            background-color: #ffffff;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+            max-width: 600px;
+            margin: auto;
+            color: #2c3e50;
+        }
+
+        .form-label {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+
+        .form-control {
+            border-radius: 10px;
+            border: 2px solid #3498db;
+            padding: 10px;
+            font-size: 1rem;
+            transition: border-color 0.3s ease;
+        }
+
+            .form-control:focus {
+                border-color: #2980b9;
+                box-shadow: 0 0 5px rgba(52, 152, 219, 0.3);
+            }
+
+        h3 {
+            text-align: center;
+            font-weight: 700;
+            color: #e67e22;
+            margin-bottom: 30px;
+        }
+
+        .btn-primary {
+            background-color: #e67e22;
+            color: #ffffff;
+            border: none;
+            border-radius: 10px;
+            padding: 10px 20px;
+            font-weight: 600;
+            transition: background 0.3s ease;
+        }
+
+            .btn-primary:hover {
+                background-color: #d35400;
+            }
+
+        .btn-secondary {
+            background-color: #26a69a;
+            color: #ffffff;
+            border: none;
+            border-radius: 10px;
+            padding: 10px 20px;
+            font-weight: 600;
+            transition: background 0.3s ease;
+        }
+
+            .btn-secondary:hover {
+                background-color: #00897b;
+            }
+
+        .alert-success {
+            background-color: #e6f4ea;
+            color: #2e7d32;
+            border: 1px solid #a5d6a7;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+        }
+
+        .text-danger {
+            color: #e74c3c !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h3>Chỉnh sửa thông tin cá nhân</h3>
+
+        @if (TempData["AccountSuccess"] != null)
+        {
+            <div class="alert alert-success text-center">
+                <i class="bi bi-check-circle-fill me-2"></i>@TempData["AccountSuccess"]
+            </div>
+        }
+
+        <form asp-action="EditProfile" method="post">
+            <div class="mb-3">
+                <label class="form-label">Họ và Tên</label>
+                <input asp-for="FullName" class="form-control" placeholder="Nhập họ và tên" required />
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Địa chỉ</label>
+                <input asp-for="Address" class="form-control" placeholder="Nhập địa chỉ" required />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Ngày sinh</label>
+                <input asp-for="DateOfBirth" class="form-control" type="date" required />
+                <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+            </div>
+
+            <div class="text-center mt-4">
+                <button type="submit" class="btn btn-primary btn-lg">
+                    <i class="bi bi-save me-2"></i>Lưu thay đổi
+                </button>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-secondary btn-lg ms-3">
+                    <i class="bi bi-x-circle me-2"></i>Hủy
+                </a>
+            </div>
+        </form>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+</body>
+</html>

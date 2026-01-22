@@ -1,0 +1,273 @@
+﻿@model List<DoAnCoSo_Nhom2.Models.Booking>
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homestay của bạn</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+            background: linear-gradient(135deg, #e8eff5, #b3cde0) !important;
+            padding-top: 50px;
+            color: #2c3e50;
+        }
+
+        h2 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #e67e22 !important;
+            text-transform: uppercase;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .table th {
+            background-color: #34495e;
+            color: #ffffff;
+            vertical-align: middle;
+            font-weight: 600;
+        }
+
+        #myBookingTable td {
+            background-color: #e8f5e9 !important;
+            color: #2c3e50;
+            vertical-align: middle;
+        }
+
+        .badge {
+            font-size: 0.9em;
+            padding: 5px 10px;
+            border-radius: 10px;
+        }
+
+        .btn-primary {
+            background-color: #e67e22;
+            color: #ffffff;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            padding: 6px 12px;
+            transition: background 0.3s ease;
+        }
+
+        .btn-danger {
+            background-color: #e74c3c;
+            color: #ffffff;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            padding: 6px 12px;
+            transition: background 0.3s ease;
+        }
+
+        .btn-primary:hover {
+            background-color: #d35400;
+        }
+
+        .btn-danger:hover {
+            background-color: #c0392b;
+        }
+
+        .alert-info {
+            font-size: 18px;
+            font-weight: 600;
+            background-color: #3498db;
+            color: #ffffff;
+            border: none;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+        }
+
+        .alert-success {
+            background-color: #e6f4ea;
+            color: #2e7d32;
+            border: 1px solid #a5d6a7;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+        }
+
+        .alert-danger {
+            background-color: #fce4ec;
+            color: #c62828;
+            border: 1px solid #ef9a9a;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+        }
+
+        .dataTables_length label,
+        .dataTables_filter label,
+        .dataTables_info,
+        .dataTables_paginate {
+            color: #2c3e50 !important;
+            font-size: 16px;
+        }
+
+            .dataTables_length select,
+            .dataTables_filter input,
+            .dataTables_paginate a {
+                font-size: 16px !important;
+                color: #2c3e50 !important;
+                background-color: #ffffff !important;
+                border: 2px solid #3498db !important;
+                border-radius: 6px;
+                padding: 4px 8px;
+                margin: 2px;
+            }
+
+            .dataTables_paginate .paginate_button {
+                padding: 6px 12px;
+                margin: 2px;
+            }
+
+                .dataTables_paginate .paginate_button:hover {
+                    background-color: #3498db !important;
+                    color: #ffffff !important;
+                    border: 2px solid #2980b9 !important;
+                }
+
+        .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+            background-color: #e67e22 !important;
+            color: #ffffff !important;
+            border: 2px solid #d35400 !important;
+        }
+
+        .table-hover tbody tr:hover {
+            background-color: #c8e6c9 !important;
+        }
+
+        img.rounded {
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <h2>Homestay của bạn</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info text-center">Bạn chưa đặt Homestay nào.</div>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table id="myBookingTable" class="table table-bordered table-hover text-center">
+                <thead>
+                    <tr>
+                        <th>Hình ảnh</th>
+                        <th>Tên Homestay</th>
+                        <th>Địa điểm</th>
+                        <th>Ngày nhận</th>
+                        <th>Ngày trả</th>
+                        <th>Số khách</th>
+                        <th>Tổng tiền</th>
+                        <th>Cọc trước 30%</th>
+                        <th>Trạng thái</th>
+                        <th>Hành động</th>
+                        <th>Thông báo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var booking in Model)
+                    {
+                        var deposit = booking.TotalPrice * 0.3m;
+                        <tr>
+                            <td>
+                                <img src="@booking.Homestay.Images.FirstOrDefault()"
+                                     alt="Homestay" class="rounded shadow-sm"
+                                     width="100" height="80"
+                                     onerror="this.src='/images/default.jpg';" />
+                            </td>
+                            <td>@booking.Homestay.Name</td>
+                            <td>@booking.Homestay.City</td>
+                            <td>@booking.CheckInDate.ToString("dd/MM/yyyy")</td>
+                            <td>@booking.CheckOutDate.ToString("dd/MM/yyyy")</td>
+                            <td>@booking.NumberOfGuests</td>
+                            <td>@booking.TotalPrice.ToString("N0") VND</td>
+                            <td>@deposit.ToString("N0") VND</td>
+                            <td>
+                                <span class="badge
+                                    @(booking.Status == "Confirmed" ? "bg-success" :
+                                      booking.Status == "Cancelled" ? "bg-danger" : "bg-warning")">
+                                    @booking.Status
+                                </span>
+                            </td>
+                            <td>
+                                @if (booking.Status == "Pending")
+                                {
+                                    <div class="d-flex justify-content-center gap-2">
+                                        <a asp-controller="Booking" asp-action="Cancel" asp-route-id="@booking.Id"
+                                           class="btn btn-danger btn-sm"
+                                           onclick="return confirm('Bạn có chắc chắn muốn hủy đặt phòng này?');">
+                                            <i class="bi bi-x-circle me-2"></i>Hủy đặt phòng
+                                        </a>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <span class="text-muted">Không thể hủy</span>
+                                }
+                            </td>
+                            <td>
+                                @if (booking.Status == "Confirmed")
+                                {
+                                    <span class="text-success">Đặt phòng thành công!</span>
+                                }
+                                else if (booking.Status == "Rejected")
+                                {
+                                    <span class="text-danger">
+                                       Đơn bị từ chối. Gọi <strong>@(booking.Homestay?.Staff?.PhoneNumber?.ToString() ?? "chưa có SĐT")</strong> để được hoàn tiền.
+                                    </span>
+
+                                }
+                                else
+                                {
+                                    <span class="text-muted">Chưa có thông báo</span>
+                                }
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+
+    @if (TempData["BookingMessage"] != null)
+    {
+        <div class="alert alert-success mt-3">@TempData["BookingMessage"]</div>
+    }
+    @if (TempData["BookingError"] != null)
+    {
+        <div class="alert alert-danger mt-3">@TempData["BookingError"]</div>
+    }
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    @section Scripts {
+        <script>
+            $(document).ready(function () {
+                $('#myBookingTable').DataTable({
+                    language: {
+                        url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/vi.json'
+                    }
+                });
+            });
+        </script>
+    }
+</body>
+</html>

@@ -1,0 +1,210 @@
+﻿@model List<DoAnCoSo_Nhom2.Models.Booking>
+
+<style>
+    html, body {
+        height: 100%;
+        margin: 0;
+    }
+
+    body {
+        background: linear-gradient(135deg, #e8eff5, #b3cde0);
+        padding-top: 50px;
+    }
+
+    h2 {
+        font-size: 28px;
+        font-weight: bold;
+        color: orangered !important;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .booking-container {
+        background-color: #ffffff;
+        border-radius: 20px;
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+        padding: 30px;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+
+    .table th, .table thead {
+        background-color: #34495e;
+        color: #ffffff;
+        vertical-align: middle;
+        font-weight: 600;
+    }
+
+    .table td {
+        background-color: #e8f5e9 !important;
+        color: #2c3e50;
+        vertical-align: middle;
+    }
+
+    .badge {
+        font-size: 0.9em;
+        padding: 5px 10px;
+        border-radius: 10px;
+    }
+
+    .btn-success {
+        background-color: #e67e22;
+        border: none;
+        color: #ffffff;
+        font-weight: 600;
+        border-radius: 10px;
+        padding: 6px 12px;
+        transition: background 0.3s ease;
+    }
+
+        .btn-success:hover {
+            background-color: #d35400;
+        }
+
+    .btn-danger {
+        background-color: #e74c3c;
+        border: none;
+        color: #ffffff;
+        font-weight: 600;
+        border-radius: 10px;
+        padding: 6px 12px;
+        transition: background 0.3s ease;
+    }
+
+        .btn-danger:hover {
+            background-color: #c0392b;
+        }
+
+    .btn-secondary {
+        background-color: #26a69a;
+        color: #ffffff;
+        border: none;
+        font-weight: 600;
+        border-radius: 10px;
+        padding: 10px 20px;
+        transition: background 0.3s ease;
+    }
+
+        .btn-secondary:hover {
+            background-color: #00897b;
+        }
+
+    #bookingTable_wrapper {
+        color: #2c3e50;
+        font-size: 16px;
+    }
+
+    .dataTables_length label,
+    .dataTables_filter label,
+    .dataTables_info,
+    .dataTables_paginate {
+        color: #2c3e50 !important;
+        font-size: 16px;
+    }
+
+        .dataTables_length select,
+        .dataTables_filter input,
+        .dataTables_paginate a {
+            font-size: 16px !important;
+            color: #2c3e50 !important;
+            background-color: #ffffff !important;
+            border: 1px solid #3498db !important;
+            border-radius: 6px;
+            padding: 4px 8px;
+            margin: 2px;
+        }
+
+        .dataTables_paginate .paginate_button {
+            padding: 6px 12px;
+            margin: 2px;
+        }
+
+            .dataTables_paginate .paginate_button:hover {
+                background-color: #ecf0f1 !important;
+                color: #2c3e50 !important;
+                border: 1px solid #3498db !important;
+            }
+
+    .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+        background-color: #3498db !important;
+        color: #ffffff !important;
+        border: 1px solid #2980b9 !important;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #c8e6c9 !important;
+    }
+</style>
+
+<div class="booking-container">
+    <h2>Quản lý đơn đặt phòng</h2>
+
+    <div class="table-responsive">
+        <table id="bookingTable" class="table table-hover table-bordered text-center">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Người đặt</th>
+                    <th>Homestay</th>
+                    <th>Ngày đến</th>
+                    <th>Ngày đi</th>
+                    <th>Trạng thái</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var booking in Model)
+                {
+                    <tr>
+                        <td>@booking.Id</td>
+                        <td>@booking.User.FullName</td>
+                        <td>@booking.Homestay.Name</td>
+                        <td>@booking.CheckInDate.ToShortDateString()</td>
+                        <td>@booking.CheckOutDate.ToShortDateString()</td>
+                        <td>
+                            <span class="badge @(booking.Status == "Pending" ? "bg-warning text-dark" :
+                                                  booking.Status == "Approved" ? "bg-success" : "bg-danger")">
+                                @booking.Status
+                            </span>
+                        </td>
+                        <td>
+                            @if (booking.Status == "Pending")
+                            {
+                                <form asp-action="ApproveBooking" method="post" class="d-inline">
+                                    <input type="hidden" name="id" value="@booking.Id" />
+                                    <button type="submit" class="btn btn-success btn-sm"><i class="bi bi-check-circle me-2"></i>Duyệt</button>
+                                </form>
+                                <form asp-action="CancelBooking" method="post" class="d-inline">
+                                    <input type="hidden" name="id" value="@booking.Id" />
+                                    <button type="submit" class="btn btn-danger btn-sm"><i class="bi bi-x-circle me-2"></i>Từ chối</button>
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="text-end mt-4">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left me-2"></i>Quay lại
+        </a>
+    </div>
+</div>
+
+@section Scripts {
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#bookingTable').DataTable({
+                language: {
+                    url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/vi.json'
+                },
+                pageLength: 10
+            });
+        });
+    </script>
+}

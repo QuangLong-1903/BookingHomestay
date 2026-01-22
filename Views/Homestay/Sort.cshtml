@@ -1,0 +1,214 @@
+﻿@model List<DoAnCoSo_Nhom2.Models.Homestay>
+
+@{
+    ViewData["Title"] = "Kết quả bộ lọc Homestay";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+
+<style>
+    html, body {
+        height: 100%;
+        margin: 0;
+    }
+
+    body {
+        background: linear-gradient(135deg, #e8eff5, #b3cde0) !important; 
+        padding-top: 50px;
+        color: #2c3e50; 
+    }
+
+    h2 {
+        font-weight: bold;
+        color: #2c3e50;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .card {
+        background-color: #ffffff; 
+        border-radius: 20px;
+        padding: 30px;
+        box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+        border: none;
+    }
+
+    .form-label {
+        font-weight: bold;
+        color: #2c3e50; 
+    }
+
+    .form-control, .form-select {
+        border-radius: 10px;
+        border: 2px solid #3498db; 
+    }
+
+    .btn-primary {
+        background-color: #e67e22;
+        border: none;
+        color: #ffffff;
+        font-weight: bold;
+        border-radius: 10px;
+    }
+
+        .btn-primary:hover {
+            background-color: #d35400; 
+        }
+
+    .btn-secondary {
+        background-color: #7f8c8d;
+        border: none;
+        color: #ffffff;
+        font-weight: bold;
+        border-radius: 10px;
+    }
+
+        .btn-secondary:hover {
+            background-color: #6c7a7b; 
+        }
+
+    .btn-outline-dark {
+        border-radius: 10px;
+        font-weight: bold;
+        color: #2c3e50;
+        border-color: #2c3e50;
+    }
+
+        .btn-outline-dark:hover {
+            background-color: #2c3e50;
+            color: #ffffff;
+        }
+
+    .btn-info {
+        background-color: #3498db; 
+        color: #ffffff;
+        border: none;
+        border-radius: 10px;
+        font-weight: bold;
+    }
+
+        .btn-info:hover {
+            background-color: #2980b9;
+        }
+
+    .table {
+        background-color: #ffffff;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    }
+
+        .table thead {
+            background-color: #34495e; 
+            color: #ecf0f1;
+        }
+
+    .alert-warning {
+        background-color: #3498db; 
+        border: none;
+        border-radius: 10px;
+        color: #ffffff;
+        font-weight: bold;
+    }
+</style>
+
+<h2>Kết quả bộ lọc Homestay</h2>
+
+<div class="container mb-4">
+    <div class="card">
+        <form asp-action="Sort" method="get">
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <label for="PricePerNight" class="form-label">Giá tối đa mỗi đêm</label>
+                    <input type="number" name="PricePerNight" class="form-control" step="0.01" min="0" value="@ViewBag.PricePerNight" placeholder="Nhập giá tối đa" />
+                </div>
+                <div class="col-md-4">
+                    <label for="City" class="form-label">Thành phố</label>
+                    <input type="text" name="City" class="form-control" value="@ViewBag.City" placeholder="Nhập tên thành phố" />
+                </div>
+                <div class="col-md-4">
+                    <label for="Rating" class="form-label">Đánh giá tối thiểu</label>
+                    <select name="Rating" class="form-select">
+                        <option value="">Chọn đánh giá</option>
+                        <option value="1" selected="@(ViewBag.Rating == 1)">1 sao trở lên</option>
+                        <option value="2" selected="@(ViewBag.Rating == 2)">2 sao trở lên</option>
+                        <option value="3" selected="@(ViewBag.Rating == 3)">3 sao trở lên</option>
+                        <option value="4" selected="@(ViewBag.Rating == 4)">4 sao trở lên</option>
+                        <option value="5" selected="@(ViewBag.Rating == 5)">5 sao</option>
+                    </select>
+                </div>
+            </div>
+            <div class="mt-4 text-end">
+                <button type="submit" class="btn btn-primary me-2">
+                    <i class="bi bi-funnel me-1"></i>Lọc Homestay
+                </button>
+                <a asp-action="Sort" class="btn btn-secondary">
+                    <i class="16px">Xóa bộ lọc
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (Model.Any())
+{
+    <div class="container">
+        <table class="table table-hover table-striped mt-3">
+            <thead>
+                <tr>
+                    <th>Tên Homestay</th>
+                    <th>Địa chỉ</th>
+                    <th>Thành phố</th>
+                    <th>Giá mỗi đêm</th>
+                    <th>Đánh giá</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var homestay in Model)
+                {
+                    <tr>
+                        <td>@homestay.Name</td>
+                        <td>@homestay.Address</td>
+                        <td>@homestay.City</td>
+                        <td>@homestay.PricePerNight.ToString("N0") VND</td>
+                        <td>
+                            @if (homestay.Reviews.Any())
+                            {
+                                @homestay.Reviews.Average(r => r.Rating).ToString("F1")
+                                <i class="bi bi-star-fill text-warning"></i>
+                            }
+                            else
+                            {
+                                <span class="text-muted">Chưa có đánh giá</span>
+                            }
+                        </td>
+                        <td>
+                            <a asp-controller="Cart" asp-action="AddToCart" asp-route-homeStayId="@homestay.Id" class="btn btn-outline-dark btn-sm me-1">
+                                <i class="bi bi-cart-fill me-1"></i> Thêm vào Giỏ
+                            </a>
+                            <a asp-controller="Homestay" asp-action="Details" asp-route-id="@homestay.Id" class="btn btn-info btn-sm">
+                                <i class="bi bi-info-circle me-1"></i> Chi tiết
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="container">
+        <div class="alert alert-warning mt-4">
+            <i class="bi bi-exclamation-triangle me-2"></i>Không tìm thấy Homestay nào phù hợp với bộ lọc của bạn.
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

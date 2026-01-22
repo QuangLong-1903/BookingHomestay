@@ -1,0 +1,465 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DoAnCoSo_Nhom2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAnCoSo_Nhom2.so0hmc0imd.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\css\\head.css",
+      "PackagePath": "staticwebassets\\css\\head.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\04ec4738-c097-42eb-bc58-3da6f769e2b9.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\04ec4738-c097-42eb-bc58-3da6f769e2b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\05332b90-3c30-4c8e-96a1-484d4043336f.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\05332b90-3c30-4c8e-96a1-484d4043336f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\1784c756-a3c1-4083-8271-184f4a31f2f8.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\1784c756-a3c1-4083-8271-184f4a31f2f8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\199eae6f-9536-4098-8d6d-7ca51c970a96.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\199eae6f-9536-4098-8d6d-7ca51c970a96.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\1dd99991-c230-49be-9ec8-4a388cf01acf.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\1dd99991-c230-49be-9ec8-4a388cf01acf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\228700d3-6c73-4339-a3ad-2c72c041d26d.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\228700d3-6c73-4339-a3ad-2c72c041d26d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\2a255e5e-b1fe-4c39-b200-c32d30b54d66.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\2a255e5e-b1fe-4c39-b200-c32d30b54d66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\3c32f9e1-e688-4933-83ba-718c71b5e83f.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\3c32f9e1-e688-4933-83ba-718c71b5e83f.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\3d86d283-37f6-466a-bd69-89dd4be14d97.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\3d86d283-37f6-466a-bd69-89dd4be14d97.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\4241e04d-4fcb-44d0-b924-9d070aa4959c.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\4241e04d-4fcb-44d0-b924-9d070aa4959c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\460e1384-bb07-41ef-997c-ba0a27d16fdb.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\460e1384-bb07-41ef-997c-ba0a27d16fdb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\487ab393-9f9e-47a3-9b75-6bdf5bca83ec.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\487ab393-9f9e-47a3-9b75-6bdf5bca83ec.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\4c614085-996f-404f-bee2-9c7823bd4c3a.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\4c614085-996f-404f-bee2-9c7823bd4c3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\53aef58d-83a9-442d-98bb-0dd7c4b38f52.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\53aef58d-83a9-442d-98bb-0dd7c4b38f52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\58bc9899-fb93-4dc2-b2e1-1910673a7203.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\58bc9899-fb93-4dc2-b2e1-1910673a7203.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\5bd6bdf5-3cdf-434e-ba5b-4e1aeba14193.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\5bd6bdf5-3cdf-434e-ba5b-4e1aeba14193.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\5c892281-2c00-4ac9-aa8d-a4cf7af05d6b.png",
+      "PackagePath": "staticwebassets\\images\\homestays\\5c892281-2c00-4ac9-aa8d-a4cf7af05d6b.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\5f3c37f0-ed00-42c6-91d8-e9aa759106b5.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\5f3c37f0-ed00-42c6-91d8-e9aa759106b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\674dafce-2f27-4011-a05f-c4f4a07f0c83.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\674dafce-2f27-4011-a05f-c4f4a07f0c83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\6a3621c5-a8d7-4fd9-baa7-5adf97e1be27.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\6a3621c5-a8d7-4fd9-baa7-5adf97e1be27.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\7634c026-fc67-40dd-aa75-1aa830a0f6f8.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\7634c026-fc67-40dd-aa75-1aa830a0f6f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\88332546-9092-494c-8500-4a1e19d0f14a.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\88332546-9092-494c-8500-4a1e19d0f14a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\8cec6729-2f07-4016-9a4c-f642137cb17d.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\8cec6729-2f07-4016-9a4c-f642137cb17d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\8db77e53-7ed4-4dfc-8106-f5f1ec274cb8.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\8db77e53-7ed4-4dfc-8106-f5f1ec274cb8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\9759bff8-611d-491c-a0eb-6cca5c1b4298.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\9759bff8-611d-491c-a0eb-6cca5c1b4298.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\97a41620-cc06-4b7c-a96c-78c1b7bcf777.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\97a41620-cc06-4b7c-a96c-78c1b7bcf777.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\9fc7f2b9-764b-43a5-8b59-1a194c4cc546.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\9fc7f2b9-764b-43a5-8b59-1a194c4cc546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\Logo.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\homestays\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\a2f85a1c-f2f9-4155-997d-50576b255b08.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\a2f85a1c-f2f9-4155-997d-50576b255b08.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\a4a2ba92-ee92-4398-bd73-5677c6e46340.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\a4a2ba92-ee92-4398-bd73-5677c6e46340.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\a7fa51ed-3c5d-4f23-9c9d-7b2d166404a1.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\a7fa51ed-3c5d-4f23-9c9d-7b2d166404a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\a9bd8b55-5c79-4ebc-b144-e9e6dec3d28f.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\a9bd8b55-5c79-4ebc-b144-e9e6dec3d28f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\c807c64d-dfcc-4583-8c25-74a227569b68.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\c807c64d-dfcc-4583-8c25-74a227569b68.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\d188e2bc-160d-422e-b273-45271e7c4149.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\d188e2bc-160d-422e-b273-45271e7c4149.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\d1b0cb97-4748-4fad-9a1c-d3fc27abb994.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\d1b0cb97-4748-4fad-9a1c-d3fc27abb994.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\de4625dc-d440-4ee3-b4b6-b9bd55bab7b5.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\de4625dc-d440-4ee3-b4b6-b9bd55bab7b5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\e0c56d7d-287c-4948-b774-04c73bc40b03.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\e0c56d7d-287c-4948-b774-04c73bc40b03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\ea7eabe1-f318-420f-9ffa-4e6f8d6732a4.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\ea7eabe1-f318-420f-9ffa-4e6f8d6732a4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\f4432f40-da38-4b43-96e7-1d4b1d63c2ed.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\f4432f40-da38-4b43-96e7-1d4b1d63c2ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\f9ffd620-dab6-446d-bbce-c4908dcdd645.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\f9ffd620-dab6-446d-bbce-c4908dcdd645.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\fa37cf5c-9df1-43e4-a594-1fb82569a253.webp",
+      "PackagePath": "staticwebassets\\images\\homestays\\fa37cf5c-9df1-43e4-a594-1fb82569a253.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\images\\homestays\\z6482444304318_fd16501a51f1bfd8332813462f2cde87.jpg",
+      "PackagePath": "staticwebassets\\images\\homestays\\z6482444304318_fd16501a51f1bfd8332813462f2cde87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\DoAnCoSo\\DoAnCoSo_Nhom2\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DoAnCoSo_Nhom2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DoAnCoSo_Nhom2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.DoAnCoSo_Nhom2.props",
+      "PackagePath": "build\\DoAnCoSo_Nhom2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAnCoSo_Nhom2.props",
+      "PackagePath": "buildMultiTargeting\\DoAnCoSo_Nhom2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.DoAnCoSo_Nhom2.props",
+      "PackagePath": "buildTransitive\\DoAnCoSo_Nhom2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
